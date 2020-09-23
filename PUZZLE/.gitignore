@@ -1,0 +1,7 @@
+*.py[cd]
+*/*.py[cd]
+stockfish-*
+Stockfish
+slack_key.txt
+venv
+generated-puzzles

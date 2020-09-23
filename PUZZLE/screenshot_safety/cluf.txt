@@ -1,0 +1,121 @@
+CONTRAT DE LICENCE
+Ce contrat de licence utilisateur constitue un contrat légal entre vous
+(personne physique ou personne morale) et l'éditeur (THe UDS),
+concernant le produit logiciel ci-joint ainsi que tous ses composants, 
+ce qui peut comprendre des supports, des documents imprimés et une 
+documentation "en ligne" ou électronique y relatifs 
+(le "produit logiciel" ou "logiciel")
+
+EN INSTALLANT, COPIANT, OU UTILISANT DE TOUTE MANIÈRE
+LE LOGICIEL OU UN DE SES COMPOSANTS, VOUS ACCEPTEZ DE 
+VOUS CONFORMER À TOUS LES TERMES ET À TOUTES LES CONDITIONS
+DU CONTRAT DE LICENCE SANS AUCUNE RESERVE.
+
+Dans le cas contraire, vous n'êtes en aucun cas autorisé à copier, 
+installer ou utiliser le logiciel ou un de ses composants.
+Si vous acceptez les termes et les conditions du contrat de licence, 
+l'éditeur vous concède le droit d'utiliser le Logiciel de la façon 
+décrite ci-dessous (éventuellement grâce à un numéro de licence,
+et éventuellement pour une durée limitée).
+CONCESSION DE LICENCE
+Le présent Contrat de Licence vous concède les droits d'installation 
+et d'utilisation à savoir :
+L'installation et l'utilisation du programme ci-joint sur un et 
+un seul poste.
+DROITS ET LIMITATIONS
+Le présent Logiciel et ses composants, ainsi que toute copie, 
+restent la propriété exclusive de l'éditeur.
+Le Logiciel est protégé en France par le Code de la Propriété 
+Intellectuelle et à l'étranger par les conventions internationales 
+sur le droit d'auteur. Vous devez, par conséquent, agir vis à vis 
+de ce Logiciel comme s'il s'agissait de tout autre matériel soumis 
+aux droits d'auteur.
+Vous ne pouvez ni céder ni transmettre ni permettre l’utilisation 
+à un tiers votre numéro de licence d’une quelconque façon ni 
+transférer vos droits d'utilisation.
+Le transfert, la location, la location-vente, le prêt, la copie, 
+la modification, la traduction, la sous licence, l'utilisation en 
+temps partagé, la transmission ou la réception électronique du 
+numéro de licence ne sont pas autorisés sous aucun moyen.
+Vous reconnaissez que le Logiciel sous forme de code source reste 
+un secret commercial de l'éditeur, et pour cette raison acceptez de 
+ne pas tenter de modifier le Logiciel d’une quelconque façon.
+Vous vous engagez notamment à ne pas développer ou commercialiser 
+le Logiciel objet du présent contrat ou des produits susceptibles 
+de le concurrencer, et/ou basé sur un ou des éléments qui en ont 
+été extraits. 
+Il est strictement interdit d’adapter, arranger, modifier ou 
+simplement tenter de modifier le Logiciel ainsi ses composants.
+En application de l'article L 122-6-1 du code de la propriété 
+intellectuelle, l'éditeur se réservent le droit de corriger les 
+erreurs, et d'établir les modalités particulières auxquelles 
+seront soumis les actes étant définis ci avant.
+La modification/reproduction du code du Logiciel sont interdites m
+êmes lorsque elles sont indispensables pour obtenir les informations 
+nécessaires à l'interopérabilité du Logiciel avec d'autres logiciels 
+ou systèmes d’exploitation.
+Il est rappelé que la violation de l'un des droits des auteurs du 
+Logiciel est un délit de contrefaçon, et que toute contrefaçon est 
+sanctionnée en France par l'article L.335-2 du code de la propriété 
+intellectuelle et punie de deux ans d'emprisonnement et de 
+15 000 euros d'amende.
+MISES À JOUR
+Toute nouvelle version du Logiciel vient remplacer la précédente et 
+demeure soumise au présent Contrat de licence, sous réserve de 
+modification dudit Contrat.
+INFORMATIONS NOMINATIVES
+Si le Logiciel intègre une base de données de clients, qui 
+constitue un traitement automatisé d'informations nominatives, 
+relevant des articles 16 et 17 de la Loi du 6 janvier 1978 relative 
+à l'informatique, aux fichiers et aux libertés, et devant faire 
+l'objet d'une déclaration.
+En conséquence, il est rappelé que vous êtes responsable de votre 
+fichier et qu'à ce titre, vous êtes tenu de le déclarer, préalablement 
+à sa mise en oeuvre, auprès de la Commission Nationale de l'Informatique 
+et des Libertés.
+LIMITE DE RESPONSABILITÉ
+En aucun cas l'éditeur ne peux être tenu pour responsable de tous 
+dommages directs ou indirects ou consécutif, de quelque nature que ce 
+soit résultant de l'utilisation ou de l’installation du logiciel ci-joint 
+ou d’un de ses composants (composants, documentations...) y compris 
+notamment pour tout manque à gagner, pertes d’exploitation, pertes de 
+bénéfices, interruption d’activité ou autres pertes de natures pécuniaire.
+Ce logiciel est fourni en l'état. L'utilisateur l'utilise à ses 
+risques et périls, sans garantie d'aucune sorte de la part de 
+l'éditeur. L'éditeur n'a aucune obligation de corriger les bogues ou 
+autres déficiences quels qu'ils soient du logiciel.
+PAIEMENT
+L'inexécution des conditions de paiement suffit à justifier la 
+résiliation pure et simple de la commande/licence.
+Aucune réclamation ou contestation n'autorise l'acheteur à différer 
+le paiement d'une commande. En cas de défaut de paiement, la vente est 
+résiliée de plein droit si bon semble au vendeur.
+INFORMATIONS NOMINATIVES
+Conformément à la loi n° 78-17 du 6 janvier 1978, l'acheteur dispose à 
+tout moment d'un droit d'accès et de rectification quant aux données le 
+concernant (identité, adresse, etc.).
+L'éditeur s'engage expressément à ne les divulguer sous aucun prétexte
+auprès de tiers, quels qu'ils soient.
+L'acheteur s'engage à informer le vendeur de toute modification concernant
+sa situation, notamment en cas de changement d'adresse postale ou électronique.
+DISPOSITIONS GÉNÉRALES
+Le présent Contrat de licence est régi et interprété conformément au 
+droit français. En cas de litige découlant de son interprétation ou de son 
+exécution, les parties s'engagent à rechercher une solution amiable.
+A défaut, ce différend sera la compétence exclusive des Tribunaux français. 
+L'éditeur se réserve ses droits sur tous les droits non expressément 
+concédés au titre de ce document.
+L'éditeur se réserve le droit de modification sans préavis du présent Contrat.
+L'éditeur se réserve le droit d’annuler sans préavis la licence d’utilisation.
+Si l'une quelconque des stipulations du contrat est retenue pour
+nulle ou sans objet, elle sera réputée non écrite et n'entraînera pas 
+la nullité des autres stipulations.
+Le présent document constitue l'intégralité du Contrat conclu entre vous même
+et l'éditeur quant au Logiciel. Il annule et remplace toutes déclarations,
+discussions, engagements, contrats de licence de l'utilisateur final,
+communications et annonces publicitaires antérieurs concernant le Logiciel.
+Dissociation de composants : le produit logiciel est concédé sous licence en
+tant que produit unique. Il n'est pas permis de dissocier ses composants
+pour les utiliser sur plus d'un ordinateur.
+CLAUSE SPECIALE
+Vous êtes tenu d'effectuer les mises à jour diffusées régulièrement.
