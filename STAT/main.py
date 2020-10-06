@@ -2,6 +2,7 @@
 
 #stats: biggest upset, combined and individual low and high acpl, longest, shortest, fastest mate.
 import urllib.request, urllib.parse, urllib.error
+import ssl
 import requests
 import lxml.html
 import time
@@ -136,6 +137,10 @@ def gameList():
 		print("Getting games for rounds {0} to {1}".format(ROUNDNUMS[0],ROUNDNUMS[1]))
 		for roundnum in range(ROUNDNUMS[0], ROUNDNUMS[1]):
 			for SECTION in SECTIONS:
+#				ctx = ssl.create_default_context()
+#				ctx.check_hostname = False
+#				ctx.verify_mode = ssl.CERT_NONE
+#				connection = urllib.request.urlopen('https://www.lichess4545.com/{0}/season/{1}/round/{2}/pairings/'.format(LEAGUE, SECTION, roundnum), context=ctx)
 				connection = urllib.request.urlopen('https://www.lichess4545.com/{0}/season/{1}/round/{2}/pairings/'.format(LEAGUE, SECTION, roundnum))
 				dom =  lxml.html.fromstring(connection.read())
 				for link in dom.xpath('//td[@class="{0}"]/a/@href'.format(XPATHCLASS)):
@@ -147,10 +152,13 @@ def getGames(gameIDs):
 	games = {}
 	for num,gameid in enumerate(gameIDs):
 		if gameid not in EXCLUDE:
-			response = requests.get("https://en.lichess.org/api/game/{0}?with_analysis=1&with_movetimes=1&with_opening=1&with_moves=1".format(gameid))
-			games[gameid] = json.loads(response.text)
-			time.sleep(1) # wait to prevent server overload
-			print("got game", num, "/", str(len(gameIDs)), gameid)
+			try:
+				response = requests.get("https://en.lichess.org/api/game/{0}?with_analysis=1&with_movetimes=1&with_opening=1&with_moves=1".format(gameid))
+				games[gameid] = json.loads(response.text)
+				time.sleep(1) # wait to prevent server overload
+				print("got game", num, "/", str(len(gameIDs)), gameid)
+			except:
+				print("could not load game", num, "/", str(len(gameIDs)), gameid)
 		else:
 			print("REMOVED game", num, gameid)
 	return games

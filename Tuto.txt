@@ -57,6 +57,8 @@ If you have an error before the end of the py script it means one of the games o
 So you'll need to find which one is breaking the script - it is the last one that was not analysed look at your console - then go on the website, find the ID of the game and put it in the list in the excludelist file, now you should be able to relaunch the script it will skip the bugged game.
 You'll see the list of excluded player too in the excludelist file, put the cheaters there to not analyse there games.)
 
+(Update 2020-10-06 by timothyha, I've added exception handling to just report a broken game link, so it looks like this "could not load game 105 / 647 RA5ZSxdj")
+
 ______
 
 Now you need to extract the pgn of all the games. Just run extractpgn and put the name of the file in (ex: team4545GamesS22R(2, 3))
