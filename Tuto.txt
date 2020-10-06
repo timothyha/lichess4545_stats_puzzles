@@ -1,3 +1,6 @@
+Text below is from @Kraaft
+========================================
+
 First of all thank you.
 But sorry those scripts are very old and from a lot of different people (somethingpretentious, robumbra, forhavu myself and others I forget.)
 I have tweaked them a lot for my personnal use. You should do the same. If you want to look at the original scripts go on there github. I hope I didn't do too much of a mess. I never put a lot of time in this and I'm just an amateur in that field.
