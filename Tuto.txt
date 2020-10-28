@@ -1,3 +1,6 @@
+Text below is from @Kraaft
+========================================
+
 First of all thank you.
 But sorry those scripts are very old and from a lot of different people (somethingpretentious, robumbra, forhavu myself and others I forget.)
 I have tweaked them a lot for my personnal use. You should do the same. If you want to look at the original scripts go on there github. I hope I didn't do too much of a mess. I never put a lot of time in this and I'm just an amateur in that field.
@@ -56,6 +59,8 @@ You'll need to copy paste that to the ledger document. It is already formated fo
 If you have an error before the end of the py script it means one of the games on the website is not standard (sometimes people have to restart a game in a middle of a position and it make everything go boom.)
 So you'll need to find which one is breaking the script - it is the last one that was not analysed look at your console - then go on the website, find the ID of the game and put it in the list in the excludelist file, now you should be able to relaunch the script it will skip the bugged game.
 You'll see the list of excluded player too in the excludelist file, put the cheaters there to not analyse there games.)
+
+(Update 2020-10-06 by timothyha, I've added exception handling to just report a broken game link, so it looks like this "could not load game 105 / 647 RA5ZSxdj")
 
 ______
 

@@ -1,0 +1,1590 @@
+[Event "rF14Q6Wr"]
+[Variant "standard"]
+[Result "1-0"]
+[White "eie24"]
+[Black "ginoux"]
+[WhiteElo "2166"]
+[BlackElo "2157"]
+e4 e5 Nf3 Nc6 Bc4 d6 c3 g6 O-O Bg7 d4 Qe7 dxe5 Nxe5 Nxe5 dxe5 b4 Nf6 Qa4+ Bd7 b5 c5 bxc6 Bxc6 Bb5 Qd7 Bxc6 Qxc6 Qxc6+ bxc6 f3 O-O Rd1 Rfd8 Rxd8+ Rxd8 Kf2 Rd1 Nd2 Bf8 Nb3 Nd7 Be3 Rxa1 Nxa1 Ba3 Nb3 Kf8 Na5 Ke8 Nxc6 a6 Ke2 f6 Kd3
+1-0
+
+[Event "KhpEdlMa"]
+[Variant "standard"]
+[Result "1-0"]
+[White "rezoons"]
+[Black "silver124"]
+[WhiteElo "2073"]
+[BlackElo "2134"]
+d4 c6 c4 d5 Nc3 Nf6 cxd5 cxd5 Bf4 Nc6 e3 a6 Bd3 Bg4 Nge2 e6 O-O Be7 Qb3 b5 f3 Na5 Bxb5+ Kf8 Qc2 axb5 fxg4 b4 g5 Ne8 Na4 Bxg5 Nc5 Be7 Nxe6+ fxe6 Bc7+
+1-0
+
+[Event "OzgCyKpc"]
+[Variant "standard"]
+[Result "0-1"]
+[White "phantom567459"]
+[Black "kcacgt"]
+[WhiteElo "2033"]
+[BlackElo "2039"]
+e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 g6 Bg5 Bg7 Qd2 O-O Bh6 Qb6 Bxg7 Kxg7 O-O-O Nc6 Nf3 Bd7 Nd5 Nxd5 exd5 Ne5 Nxe5 dxe5 Bc4 Rac8 Bb3 a5 a4 Qxb3 Kb1 Qxa4 h4 Qf4 Qe2 Bg4 f3 Bf5 Rd2 Rc5 g4 Bd7 h5 Rfc8 hxg6 hxg6 Qd1 Ba4 Rhh2 Rxd5 Rxd5 Qxh2 b3 Bc6 Rxa5 Bxf3 Qd3 Bxg4
+0-1
+
+[Event "kAwjhy2A"]
+[Variant "standard"]
+[Result "0-1"]
+[White "pedropablo72"]
+[Black "benmtl"]
+[WhiteElo "1903"]
+[BlackElo "1895"]
+e4 e6 f4 d5 Nc3 dxe4 Nxe4 Nf6 Ng3 c5 Nf3 Nc6 Bc4 Be7 O-O O-O a3 a6 Ne5 Nxe5 fxe5 Qd4+ Kh1 Ng4 Qe2 Nxh2 Kxh2 Qh4+ Kg1 Qxg3 Rf3 Qg4 d3 b5 Ba2 Bb7 Rf2 Qg6 Rf4 h5 Be3 Rac8 Raf1 Bg5 R4f2 Bh4 Rf4 Bg3 Bb1 Bxf4 Bxf4 Qg4 Qf2 c4 d4 Rfd8 c3 h4 Bc2 h3 Bd1 Qxg2+ Qxg2 Bxg2 Rf2 f6 Bg4 f5 Bd1 a5 Bg5 Rd7 Kh2 b4 axb4 axb4 Ba4 Rd5 Be7 bxc3 bxc3 Kf7 Bd6 g5 Bd7 Rd8 Ba4 g4 Rb2 Ra5 Rb7+ Bxb7
+0-1
+
+[Event "4OFcE4Mg"]
+[Variant "standard"]
+[Result "0-1"]
+[White "giorus"]
+[Black "drotciv"]
+[WhiteElo "1723"]
+[BlackElo "1802"]
+e4 c5 Nc3 Nc6 g3 Nf6 Bg2 d6 d3 Bg4 Nf3 h6 Be3 Qb6 Qd2 Bxf3 Bxf3 Nd4 Bxd4 cxd4 Na4 Qb5 b3 e5 O-O Be7 c3 Qa5 Qb2 b5 cxd4 bxa4 dxe5 Qxe5 d4 Qb5 e5 Nd5 exd6 Bxd6 Rfe1+ Kd8 Be2 a3 Qc2 Qd7 Qe4 Nb6 Rac1 f5 Qh4+ g5 Qh5 Qe8 Qf3 Qe4 Qc3 Rc8 Qa1 Bb4 Ba6 Rxc1 Rxc1 Re8 d5 Qe5 Qb1 Qe1+ Rxe1 Rxe1+ Qxe1 Bxe1 Kf1 Bb4 Bc4 Ke7 Ke2 Kd6 h3 Nxd5 Bxd5 Kxd5 Ke3 Bc5+ Ke2 Kd4 g4 f4 f3 Kc3
+0-1
+
+[Event "mE8RuALe"]
+[Variant "standard"]
+[Result "1-0"]
+[White "upgoerfive"]
+[Black "meat-and-potatoes"]
+[WhiteElo "1628"]
+[BlackElo "1647"]
+e4 Nc6 Nc3 e5 Nf3 Nf6 Bc4 h6 d4 Qe7 d5 Na5 Bd3 d6 b4 Nc6 dxc6 bxc6 b5 c5 O-O Be6 a4 c4 Be2 a6 Be3 a5 Nd2 d5 exd5 Nxd5 Nxd5 Bxd5 Nxc4 Rd8 Qc1 Bxc4 Bxc4 Rd6 Bc5 Qh4 Bxd6 Bxd6 g3 Qxc4 Qb2 O-O Rfd1 Rb8 Qa2 Qc5 c4 f6 Rac1 Qb4 c5+ Kh8 cxd6 cxd6 Rc4 Qxc4 Qxc4 Rd8 Qc7 Ra8 Qxd6 Kh7 Qe6 Kh8 b6 Rf8 Qd5 Kh7 Qxa5 e4 Qd5 f5 a5 h5 a6 Kh6 a7 e3 fxe3 Kg5 b7 g6 a8=Q Rxa8 bxa8=Q Kh6 h4 g5 Qd6+ Kg7 Qa7+ Kh8 Qd8#
+1-0
+
+[Event "iTfUf7e4"]
+[Variant "standard"]
+[Result "1/2-1/2"]
+[White "brilliantblunder"]
+[Black "cinqued"]
+[WhiteElo "1580"]
+[BlackElo "1441"]
+e4 e5 Nf3 d6 Nc3 Nf6 Bc4 h6 d3 Be7 Be3 c5 Qd2 O-O h3 Nc6 Nd5 Be6 Nxe7+ Nxe7 O-O-O d5 exd5 Bxd5 Bxh6 Nf5 Bg5 Qd6 Bxf6 Bxc4 Bxe5 Qe6 dxc4 Qxc4 b3 Qe4 Qd3 Qxd3 Rxd3 Rac8 Rhd1 f6 Bg3 b5 Rd7 Rf7 Rxf7 Kxf7 Rd7+ Kg6 Bf4 a5 g4 Nh6 Rc7 Rxc7 Bxc7 a4 bxa4 bxa4 c4 f5 gxf5+ Kxf5 Bd6 Ke4 Nd2+ Kd4 Kb2 Nf7 Bg3 Kd3 Kc1 Nd8 f4 Ne6 h4 Nd4 h5 Ne2+ Kd1 Nxg3 Nf3 Kxc4
+1/2-1/2
+
+[Event "SShvTeY3"]
+[Variant "standard"]
+[Result "1/2-1/2"]
+[White "razorneck"]
+[Black "hanschut"]
+[WhiteElo "2219"]
+[BlackElo "2169"]
+e4 c5 Nf3 d6 Bb5+ Bd7 Bxd7+ Qxd7 c4 Nf6 Nc3 g6 d4 cxd4 Nxd4 Bg7 f3 O-O O-O Rc8 b3 d5 exd5 Nxd5 Nxd5 e6 Bh6 exd5 Bxg7 Kxg7 cxd5 Qxd5 Ne2 Qe5 Ng3 Nc6 Re1 Qc5+ Kh1 Rd8 Qe2 Qc3 Ne4 Qe5 Rac1 Rd5 Nc3 Qxe2 Rxe2 Rd3 Kg1 Rad8 Ne4 Nd4
+1/2-1/2
+
+[Event "ljxHbFTP"]
+[Variant "standard"]
+[Result "0-1"]
+[White "bufferunderrun"]
+[Black "pendru"]
+[WhiteElo "2059"]
+[BlackElo "2136"]
+e4 e6 d4 d5 exd5 exd5 Nf3 Bg4 h3 Bh5 Be2 Bd6 O-O Ne7 Re1 O-O Ne5 Bxe2 Qxe2 Bxe5 dxe5 c5 Bg5 h6 Bh4 Nbc6 e6 f5 Bxe7 Qxe7 c3 Rf6 Qf3 d4 Nd2 Rd8 Nb3 dxc3 Qxc3 b6 a4 Rxe6 a5 Nd4 Nxd4 Rxd4 axb6 axb6 Qb3 Rd6 Qc4 Kh7 Kf1 g5 b4 Rc6 bxc5 Qxc5 Ra7+ Kh8 Ra8+ Kg7 Ra7+ Kf6 Rxe6+ Rxe6 Qxc5 bxc5 Rc7 Re5 g3 f4 g4 Ke6 Rc6+ Kd5 Rxh6 c4 Rh8 c3 Rc8 Kd4 Kg2 Kd3 Rd8+ Ke2 Rc8 Kd1 Rd8+ Kc1 Rc8 c2 Rc7 Rd5 h4 gxh4 Kh3 Kd2 Kxh4 c1=Q Rxc1 Kxc1 g5 Rd2 g6 Rxf2 Kh3 Rf3+
+0-1
+
+[Event "G1iv4wM0"]
+[Variant "standard"]
+[Result "1/2-1/2"]
+[White "sesquipedalism"]
+[Black "nsmiller7"]
+[WhiteElo "2025"]
+[BlackElo "2015"]
+e4 c5 Nf3 g6 c3 Bg7 d4 cxd4 cxd4 d5 e5 Bg4 Bb5+ Nd7 Nbd2 a6 Bd3 e6 h3 Bxf3 Nxf3 b5 O-O Ne7 a4 b4 a5 Qc8 Bd2 Qb7 Qa4 Nc6 Rfc1 Ndb8 Qd1 O-O Qe1 Re8 Ra4 Bf8 Bg5 Qd7 Raa1 Qa7 Qe3 Qc7 Bh6 Qe7 h4 f6 Bxf8
+1/2-1/2
+
+[Event "lb0AxQoL"]
+[Variant "standard"]
+[Result "0-1"]
+[White "mixxanber"]
+[Black "tactix47"]
+[WhiteElo "1890"]
+[BlackElo "1954"]
+e4 d5 exd5 Qxd5 Nc3 Qa5 d4 c6 Nf3 Bg4 h3 Bh5 Bd3 e6 Bd2 Qc7 Qe2 Nf6 g4 Bg6 O-O-O Nbd7 Kb1 Bd6 g5 Nd5 Bxg6 hxg6 Ne4 Bf4 h4 a5 Bxf4 Qxf4 Nc5 Nxc5 dxc5 O-O-O Ne5 Qb4 Rxd5 Rxd5 Nxf7 Rxh4 Qxe6+ Kb8 Re1 Rhd4 Kc1 Qd2+ Kb1 Qd1+ Rxd1 Rxd1#
+0-1
+
+[Event "LWkigmpE"]
+[Variant "standard"]
+[Result "0-1"]
+[White "mrscribbles"]
+[Black "cyndaquil1"]
+[WhiteElo "1829"]
+[BlackElo "1823"]
+e4 e5 Nf3 Nc6 Nc3 Nf6 Nxe5 Nxe5 d4 Nc6 d5 Ne5 f4 Ng6 e5 Ng8 d6 cxd6 exd6 Qf6 Nb5 Kd8 Be3 Nxf4 Qd2 Ne6 Nc7 Rb8 Bxa7 Qe5+ Be2 Bxd6 Nxe6+ Qxe6 O-O Ra8 Bb6+ Ke8 Rae1 Ne7 Bh5 Bxh2+ Kxh2 Qxb6 Rxf7 Kd8 Rfxe7 Qf6 Qb4 Ra6 Bf3 Rb6 Qa5 Rf8 b3 Kc7 c4 Kb8 c5 Ra6 Qb4 Rxa2 Rxd7 Qxf3 Rd2 Qh5+ Kg1 Rxd2 Qxd2 Qxc5+ Kh1 Rf6 g3 Rh6+ Kg2 Qc6+ Kf1 Qf3+ Qf2 Rh1#
+0-1
+
+[Event "TFo7wC0F"]
+[Variant "standard"]
+[Result "0-1"]
+[White "jamougha"]
+[Black "lugr"]
+[WhiteElo "1778"]
+[BlackElo "1790"]
+d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 Qa4+ Nc6 e3 O-O a3 Bxc3+ bxc3 Rd8 Bd3 Qe7 cxd5 Rxd5 Be4 Rd6 O-O Bd7 Qb3 Rb8 Rab1 Nd8 Ne5 Be8 c4 f6 Nd3 f5 Bf3 Kh8 Rfe1 Ra6 c5 Bc6 Ne5 Qe8 Nxc6 Nxc6 a4 Nd8 Be2 Ra5 Bc4 a6 Ra1 b6 e4 fxe4 Rxe4 b5 Bxe6 Nc6 d5 bxa4 Qc3 Rab5 dxc6 Qxc6 Ree1 Qe8 g3 Qc6 Qa3 Rb2 Qxa4 Qxc5 Qf4 Rf8 Qe3 Qd6 Rf1 Re8 Rad1 Qxe6 Qa7 Qc6 Rc1 Rc2 Rxc2 Qxc2 Qxa6 Rf8 Qa3 Qf5 Qc3 c5 f4 Rc8 Rc1 c4 Qb4 Qd3 Qc3 Qd5 Qe5 Qf3 Qd4 c3 Qf2 Qd3 Qc2 Qe3+ Qf2 Qxc1+
+0-1
+
+[Event "qgUhrXIZ"]
+[Variant "standard"]
+[Result "0-1"]
+[White "mynameismund"]
+[Black "richtri_rj"]
+[WhiteElo "1721"]
+[BlackElo "1670"]
+d4 Nf6 c4 g6 Nc3 Bg7 e4 d6 Be2 O-O Nf3 Nbd7 O-O e5 d5 Nc5 b4 Ncxe4 Qc2 Nxc3 Qxc3 Re8 Bb2 Bf5 Rfe1 Ne4 Qe3 Nf6 h3 Qe7 Red1 Bd7 Rac1 Nh5 c5 f5 cxd6 cxd6 Rc7 b6 Ba6 Nf4 h4 Bh6 Qc3 Rec8 Bxc8 Ne2+ Kf1 Nxc3 Bxd7 Nxd5 Rxd5 Rd8 Nxe5 Qxh4 Be6+ Kf8 Nc4 Qe4 Rf7+ Ke8 Nxd6+ Rxd6 Rxd6 Qb1+ Ke2 Qxb2+ Kd3 Qd2+ Kc4 Qxd6 Bd5 a6 a4 b5+ axb5 axb5+ Kd4 Qxb4+ Ke5 Bf4+ Ke6 Qd6#
+0-1
+
+[Event "uBP0cGpZ"]
+[Variant "standard"]
+[Result "1/2-1/2"]
+[White "throwawaycompiler"]
+[Black "electricfalcon"]
+[WhiteElo "1603"]
+[BlackElo "1319"]
+e4 d5 exd5 Qxd5 Nc3 Qd8 d4 Nf6 Nf3 Bf5 Bf4 e6 a3 Bd6 Bxd6 Qxd6 Bc4 Nc6 O-O O-O Re1 Nd5 Nh4 Qf4 Nxf5 Qxf5 Bd3 Qf6 Nxd5 exd5 Qh5 Qh6 Qxd5 Rad8 Qb5 Nxd4 Qxb7 Qg5 Qe4 g6 f4 Qg4 c3 Rfe8 Qb7 Rxe1+ Rxe1 Qxf4 cxd4 Qxd4+ Kh1 Qxd3 Qxc7 Qd1 Qe5 Qd7 h3
+1/2-1/2
+
+[Event "oTjjDHdY"]
+[Variant "standard"]
+[Result "0-1"]
+[White "ninjapervert99"]
+[Black "jaybir"]
+[WhiteElo "2080"]
+[BlackElo "2162"]
+d4 Nf6 c4 e6 Nc3 Bb4 Nf3 O-O Qc2 c5 Bg5 h6 Bh4 Nc6 e3 cxd4 Nxd4 Nxd4 exd4 d5 a3 Be7 c5 e5 dxe5 Ng4 Bg3 Bxc5 h3 Nxe5 Bxe5 Re8 Ne2 Bxf2+ Kxf2 Rxe5 Nd4 Qh4+ Kg1 Qxd4+ Kh2 Bf5 Rd1 Qf4+ g3 Qxf1
+0-1
+
+[Event "X2kQMFKA"]
+[Variant "standard"]
+[Result "1-0"]
+[White "eidol"]
+[Black "isuckatchess247"]
+[WhiteElo "2107"]
+[BlackElo "2039"]
+d4 d5 c4 e6 Nc3 Nf6 cxd5 Nxd5 e4 Nxc3 bxc3 c5 Nf3 Nc6 d5 Ne7 Bb5+ Bd7 Bxd7+ Qxd7 Ne5 Qd8 Qa4+ Nc6 dxc6
+1-0
+
+[Event "G8bAr1ul"]
+[Variant "standard"]
+[Result "1-0"]
+[White "xipqag"]
+[Black "wargoblin"]
+[WhiteElo "1980"]
+[BlackElo "1985"]
+e4 e5 Nf3 Nc6 Bc4 Nf6 d4 exd4 O-O Nxe4 Re1 d5 Bxd5 Qxd5 Nc3 Qh5 Nxe4 Be6 Bg5 Bd6 Nxd6+ cxd6 Bf4 Qd5 c3 Qf5 cxd4 O-O-O Qd2 Bd5 Re3 Qxf4 Rc1 Bxf3 gxf3 Kb8 Rxc6 Qg5+ Kh1 Qd5 Rc1 Qxa2 d5 Rc8 Re7 Rxc1+ Qxc1 Qxd5 Qc7+ Ka8 Rxf7 Re8 Kg2 a6 Rxg7 Rf8 Qc3 Rg8 Kg3 Qf7 Qc8+ Rxc8 Rxf7 Rg8+ Kh3 Ka7 f4 Kb6 f5 Rg5 f4 Rh5+ Kg4 Rxh2 f6 Rg2+ Kf5 Rg8 Re7
+1-0
+
+[Event "n0iglLEY"]
+[Variant "standard"]
+[Result "1/2-1/2"]
+[White "calkaiserwilks"]
+[Black "roycebraccket"]
+[WhiteElo "1935"]
+[BlackElo "1926"]
+d4 Nf6 c4 e6 Nc3 Bb4 e3 d5 Bd2 O-O Nf3 b6 cxd5 g6 dxe6 Bxe6 Bd3 c5 a3 cxd4 axb4 dxc3 Bxc3 Bg4 h3 Bd7 O-O b5 Nd4 a6 Nxb5 Qb6 Nd4 Nc6 Nb3 Nxb4 Bxb4 Qxb4 Bxa6 Ba4 Qd4 Qxd4 Nxd4 Rxa6 b3 Rfa8 bxa4 Rxa4 Rxa4 Rxa4 Rc1 Ra2 Rc2 Ra1+ Kh2 Kg7 Rc7 Ne8 Rc6 Nf6 Rc7 Ne8 Re7 Nd6 e4 Ra4 e5 Rxd4 exd6 Rxd6 g3 h5 h4 Kf6 Rb7 Ke6 Kg2 Rd3 Rb6+ Ke5 Rb7 f6 Rg7 Kf5 Rb7 Rd5 Rb4 g5 hxg5 Kxg5 Rb8 Kg4 Rb4+ Kg5 Rb8 Rd7 Rg8+ Kh6 Rh8+ Rh7 Rf8 Kg6 Rg8+ Kf5 Rc8 h4 Rc5+ Kg6 gxh4 Rxh4 Kg3 Rb4 f3 Ra4 Rb5 f5 Rb6+ Kg5 Rb5 Rc4 Rd5 Rc1 f4+ Kf6 Rd6+ Ke7 Rb6 Rg1+ Kf2 Rd1 Kg3 Rg1+ Kf2 Rd1 Kg3 Rg1+
+1/2-1/2
+
+[Event "NaPvBiLn"]
+[Variant "standard"]
+[Result "0-1"]
+[White "rhinelaender"]
+[Black "paddydaddy"]
+[WhiteElo "1866"]
+[BlackElo "1876"]
+e4 e5 Nf3 Nc6 d4 exd4 Nxd4 Nf6 Nxc6 bxc6 e5 Qe7 Qe2 Nd5 Nd2 g6 Nf3 Bg7 Bg5 Qb4+ c3 Nxc3 a3 Qb3 Nd4 Nxe2 Nxb3 Rb8 Bxe2 Rxb3 O-O-O O-O Bc4 Rb8 Bf4 Re8 Rhe1 Kf8 b3 Re7 Kc2 h6 Bg3 Bb7 f4 Rbe8 Bf2 d6 Bh4 g5 fxg5 hxg5 Bxg5 Rxe5 Rf1 d5 Bf4 dxc4 Bxe5 cxb3+ Kb1 Bxe5 Rd7 Re7 Rd8+ Kg7 Rb8 Ba6
+0-1
+
+[Event "8gdR2jhG"]
+[Variant "standard"]
+[Result "0-1"]
+[White "stinky_peterson"]
+[Black "johnnyeccles01"]
+[WhiteElo "1807"]
+[BlackElo "1768"]
+e4 c5 Nf3 e6 c4 Nc6 Be2 Qc7 Nc3 a6 d3 Nge7 Be3 Ng6 d4 cxd4 Bxd4 Nxd4 Nxd4 Bc5 O-O b6 Na4 Nf4 Re1 Bd6 g3 Nxe2+ Qxe2 h5 h4 Bb7 Rac1 g5 hxg5 h4 Nf5 exf5 exf5+ Kd8 f3 Bb4 gxh4 Qg3+ Qg2 Bxe1 Qxg3 Bxg3 Nxb6 Bxf3 Rc3 Bc7 Nxa8 Bxa8 Rh3 Be4 h5 Bxf5 Rh1 Bg4 g6 fxg6 hxg6 Rxh1+ Kxh1 Be5
+0-1
+
+[Event "E2q8RbJE"]
+[Variant "standard"]
+[Result "1-0"]
+[White "hiekki"]
+[Black "apprenchess"]
+[WhiteElo "1699"]
+[BlackElo "1655"]
+e4 c5 Nc3 Nc6 g3 e5 Bg2 Nf6 d3 Be7 Nge2 O-O O-O Re8 f4 exf4 Nxf4 d6 h3 Nd4 Ncd5 Nxd5 Nxd5 Be6 Nf4 Qd7 c3 Nc6 d4 cxd4 cxd4 Bc4 Rf2 Qc7 b3 Ba6 Nd5 Qb8 Qf3 Nxd4 Qxf7+ Kh8 Nxe7 Ne2+ Rxe2 Bxe2 Bb2 Rxe7 Bxg7#
+1-0
+
+[Event "rDS30QGh"]
+[Variant "standard"]
+[Result "1-0"]
+[White "jcarmody"]
+[Black "rehbein"]
+[WhiteElo "1549"]
+[BlackElo "1596"]
+e4 c6 d4 d5 exd5 cxd5 Bd3 Nc6 c3 e6 Nf3 Bd6 O-O Nf6 Bg5 O-O Nbd2 Re8 Re1 h6 Bh4 Be7 Nf1 Nd7 Bxe7 Qxe7 Ng3 e5 Nf5 Qf6 b4 a6 Re3 e4 N3h4 g5 Qg4 b5 f4 Nf8 fxg5 Qxg5 Nxh6+ Kh7 Qxg5 Ng6 Nxf7 Re6 Qh6+ Kg8 Ng5 Rf6 Nxg6 Rxg6 Qh7+ Kf8 Qf7#
+1-0
+
+[Event "7gPAEvQb"]
+[Variant "standard"]
+[Result "1/2-1/2"]
+[White "toddletales"]
+[Black "scrooge"]
+[WhiteElo "2163"]
+[BlackElo "2311"]
+e4 c5 Nf3 e6 d4 cxd4 Nxd4 a6 Bc4 b5 Bb3 Bb7 O-O Bxe4 a4 b4 Nd2 Bb7 Nc4 d5 Ne5 Nf6 a5 Bd6 Ba4+ Nbd7 Qe2 Qc7 Bxd7+ Nxd7 Nxf7 Kxf7 Qxe6+ Kf8 Qf5+ Kg8 Qe6+ Kf8 Qf5+ Kg8 Qe6+ Kf8
+1/2-1/2
+
+[Event "Ci6rI9zw"]
+[Variant "standard"]
+[Result "1-0"]
+[White "groger12"]
+[Black "grizzzly1000"]
+[WhiteElo "2095"]
+[BlackElo "2083"]
+e4 c6 d4 d5 e5 Bf5 Nc3 e6 g4 Bg6 Nge2 c5 h4 h6 Be3 Nc6 dxc5 Nxe5 Nf4 d4 Bb5+ Ke7 Nxg6+ fxg6 Bf4 dxc3 Bxe5 Qd2+ Qxd2 cxd2+ Kxd2 Rd8+ Ke2 Rd5 Bd6+ Kf7 c4 Rd4 Rad1 Rxg4 Bxf8 Kxf8 Rd8+ Kf7 Rhd1 a6 R1d7+ Kf6 Bxa6 bxa6 Rf8+ Ke5 f4+ Ke4 c6 Rg2+ Kf1 Rxb2 c7 Ne7 Rxh8 Nf5 c8=Q Rb1+ Ke2 Rb2+ Kd1 Ne3+ Kc1 Rc2+ Kb1 Rxc4 Qb7+
+1-0
+
+[Event "YIV1AgNl"]
+[Variant "standard"]
+[Result "0-1"]
+[White "iamzex"]
+[Black "nimzonglsh"]
+[WhiteElo "2001"]
+[BlackElo "2038"]
+e4 c5 Nf3 a6 d4 cxd4 Nxd4 Nf6 Nc3 e5 Nf3 Bb4 Bg5 Qc7 Bd2 d6 Bd3 Bg4 O-O Nc6 Nd5 Nxd5 exd5 Bxd2 dxc6 Bb4 c3 Bc5 cxb7 Qxb7 Qa4+ Bd7 Qc2 Bc6 Be2 Rb8 b4 Ba7 Nh4 g6 Qd3 Rd8 Qxa6 Qc7 b5 Be4 a4 Ra8 Bf3 Bxf2+ Rxf2 Rxa6 bxa6 Bxf3 Rxf3 Qa7+ Kf1 Qxa6+ Kf2 Qb6+ Kg3 Qa5 Kh3 e4 Re3 f5 Nf3 O-O Nh4 g5 Rg3 g4+ Rxg4+ fxg4+ Kxg4 Qxc3
+0-1
+
+[Event "vrcDSZgw"]
+[Variant "standard"]
+[Result "1-0"]
+[White "chase793"]
+[Black "ecelal"]
+[WhiteElo "1918"]
+[BlackElo "1911"]
+d4 d5 c3 Nf6 Nf3 e6 Bf4 Be7 h3 O-O e3 Nbd7 Bd3 c5 Nbd2 b6 O-O Bb7 Re1 Ne4 Qc2 f5 b3 Ndf6 Bxe4 Nxe4 Nxe4 fxe4 Ne5 Rc8 Qb2 Bf6 Rac1 Bxe5 Bxe5 Rf7 Red1 Qe7 Qa3 Rcf8 Rd2 a5 c4 dxc4 bxc4 Rc8 dxc5 Rxc5 Bd6 Qd7 Rcd1 Rxc4 Bc5 Bd5 Bxb6 Qc6 Qxa5 Ra4 Qc5 Qxc5 Bxc5 Rb7 a3 Rb3 Bb4 Kf7 Rc1 Rd3 Rdc2 Bb3 Rc7+ Kg6 Re7 Rd1+ Rxd1 Bxd1 Rxe6+ Kf5 Re7 Kf6 Rxe4 Bc2 Bc3+ Kg6 Rxa4 Bxa4 Kf1 Kf7 Ke2 g6 Kd3 Ke6 Kc4 Bc6 f3 Kf5 Kb4 h5 a4 g5 a5 Ke6 Kc5 Kd7 Kb6 Bd5 e4 Ba8 g3 Kc8 a6 Kd7 Kc5 Ke6 Kd4 Bc6 Bd2 Kf6 a7 g4 hxg4 hxg4 f4 Ke6 e5 Kf5 Kc5 Bh1 Kd6 Bb7 e6 Kg6 e7 Kf7 Kd7
+1-0
+
+[Event "h5AvTIw7"]
+[Variant "standard"]
+[Result "0-1"]
+[White "joyboy"]
+[Black "enesm"]
+[WhiteElo "1843"]
+[BlackElo "1843"]
+e4 d6 d4 Nf6 Nc3 g6 Nf3 Bg7 Bd3 O-O O-O a6 h3 Nbd7 Be3 e5 Qd2 exd4 Nxd4 Nc5 f4 Re8 e5 dxe5 fxe5 Rxe5 Nf3 Rh5 g4 Nxg4 hxg4 Bxg4 Bxc5 Bxf3 Rxf3 Rxc5 Ne4 Rh5 Qf4 f5 Ng3 Rg5 Rd1 Qd4+ Qxd4 Bxd4+ Kh1 Bxb2 Bc4+ Kg7 Rd7+ Kh8 Rxc7 Be5 Rxb7 Rxg3 Rxg3 Bxg3 a4 f4 Be6 f3 c4 Re8 Rb6 f2 Kg2 Rf8
+0-1
+
+[Event "4jctNrdk"]
+[Variant "standard"]
+[Result "0-1"]
+[White "sahithyas"]
+[Black "petmarmoset"]
+[WhiteElo "1727"]
+[BlackElo "1743"]
+e4 c6 Nf3 d5 exd5 cxd5 d4 Nc6 Nc3 Bg4 Be3 e6 Bb5 Nf6 h3 Bh5 Bg5 Be7 Qd3 O-O Bxc6 bxc6 Ne5 Rc8 Qg3 c5 Bh6 Bg6 Be3 Bxc2 O-O Qb6 dxc5 Bxc5 Bg5 Be7 Bxf6 Bxf6 Nd7 Qxb2 Nxf8 Kxf8 Ne2 d4 Qd6+ Kg8 Nf4 Rd8 Qc7 d3 Rac1 g6 g3 Qxa2 h4 Qa4 Ra1 Qd7 Rxa7 Qxc7 Rxc7 d2 Rxc2 d1=Q Rxd1 Rxd1+ Kg2 Kg7 Rc7 Rd6 Kf3 Bd4 Ke4 Bxf2 Kf3 Bb6 Rb7 Kf8 Ke4 Bf2 Kf3 Bd4 Kg4 h6 Rc7 Be5 Rc8+ Ke7 Rc7+ Rd7 Rc6 Bxf4 Kxf4 Rd6 Rc7+ Kf6 Rb7 Rd4+ Ke3 Rg4 Kf3 Rc4 Rd7 e5 Ra7 Ke6 Rb7 f5 Rb6+ Kd5 Rxg6 Rc3+ Kf2 Rc6 Rg8 Rd6 Rf8 Ke4 Ke2 Rg6 Kf2 f4 gxf4 exf4 Re8+ Kf5 Rf8+ Kg4 Rf7 Rc6 h5 Rc5 Rg7+ Rg5 Rf7 Rxh5 Rg7+ Rg5 Rf7 h5 Rf6 h4 Rf7 h3 Kg1 Kf3+ Kh2 Rc5 Kxh3 Rh5#
+0-1
+
+[Event "JazFvKUO"]
+[Variant "standard"]
+[Result "1-0"]
+[White "freddy267t"]
+[Black "mward128"]
+[WhiteElo "1645"]
+[BlackElo "1671"]
+e4 c5 Nf3 Nc6 d4 cxd4 Nxd4 Nf6 Nc3 e6 Bf4 e5 Nxc6 bxc6 Bxe5 Bb4 Bd3 d6 Bxf6 Qxf6 O-O O-O Na4 Be6 a3 Ba5 b4 Bc7 Qd2 d5 Nc5 Qe5 f4 Qd4+ Kh1 dxe4 Nxe6 fxe6 Qf2 Qxf2 Rxf2 exd3 cxd3 Bxf4 Rc2 Rac8 g3 Be5 Re1 Bd4 Rxe6 Rf1+ Kg2 Ra1 Rd6 c5 Rxd4 Rxa3 Rxc5 Rb8 Ra5 Rxa5 bxa5 a6 Rd6 Ra8 Kf3 Kf7 Ke4 Ke7 Ke5 Ra7 d4 h5 h4 Kf7 Kd5 Rb7 Rxa6 Rb3 Rc6 Rxg3 a6 Ra3 Kd6 g5 hxg5 h4 Kc7 h3 Rh6 Kg7 Kb7 Rb3+ Kc7 Ra3 d5 Kf7 Kb7 Rb3+ Ka8 Rb5 Rxh3 Rxd5 Rh7+ Kg6 Rc7 Rb5 Rb7 Ra5 a7 Kxg5 Kb8 Kf6 a8=Q Rxa8+ Kxa8 Ke6 Rc7 Kd6 Kb7 Kd5 Rc6 Kd4 Kb6 Kd5 Kb5 Kd4 Rc5 Ke4 Kc4 Kf4 Kd4 Kf3 Rf5+ Kg4 Ke4 Kh4 Kf4 Kh3 Rg5 Kh4 Rg8 Kh5 Kf5 Kh4 Rg7 Kh5 Rh7#
+1-0
+
+[Event "kNPVYkpD"]
+[Variant "standard"]
+[Result "1-0"]
+[White "drunkenwomble"]
+[Black "gingersquirrelnuts"]
+[WhiteElo "1405"]
+[BlackElo "1507"]
+e4 d5 exd5 Qxd5 Nc3 Qd8 Nf3 Nf6 Be2 c6 O-O Bf5 d4 e6 Bf4 Bd6 Be5 O-O Nh4 Ne4 Nxf5 Nxc3 Nh6+ gxh6 bxc3 Bxe5 dxe5 Qd5 f4 Rd8 Kh1 b5 Bf3 Qxd1 Rfxd1 Rxd1+ Rxd1 a5 Rd8+ Kg7 Bxc6 Ra6 Bxb5 Rb6 c4 Nc6 Rd6 a4 Rxc6
+1-0
+
+[Event "binm0s8z"]
+[Variant "standard"]
+[Result "1/2-1/2"]
+[White "hnorbi96"]
+[Black "cantosh"]
+[WhiteElo "2164"]
+[BlackElo "2243"]
+e4 c6 d4 d5 e5 Bf5 Nf3 e6 Be2 c5 Be3 Qb6 Nc3 Nc6 O-O c4 b3 Bb4 Na4 Qa5 c3 Bxc3 Rc1 Bb4 bxc4 Nge7 c5 Qc7 Qb3 O-O Rfd1 Ba5 Bd2 Bxd2 Rxd2 Bg4 Nc3 a6 Rb1 Qa5 Rbd1 Rab8 Na4 f6 exf6 Rxf6 Nb6 Rd8 Ne5 Nxd4 Rxd4 Bxe2 Rc1 Nc6 Nxc6 bxc6 Rc3 Bh5 h3 Qb5 Qxb5 axb5 a4 bxa4 Rxa4 d4 Rd3 e5 f3 Bg6 Rd2 h5 Nc4 Rd5 Ra8+ Rf8 Ra5 Rb8 Nb6 Rdd8 Nc4 e4 fxe4 Bxe4 Nd6 Bd5 Ra1 Rf8 Rad1 Rf4 Rxd4 Rxd4 Rxd4 Rb1+ Kf2 Rb2+ Ke3 Bxg2 h4 Rc2 Rc4 Rxc4 Nxc4 Kf7 Kf4 Kf6 Ne3 Bh3 Nc4 Be6 Ne5 Bd5 Nd7+ Ke7 Ne5 Ke6 Nd3 Bc4 Nb4 Bb5 Ke4 Ba4 Kf4 Bb5 Ke4 Bf1 Nc2 Bg2+ Kf4 Bh1 Ne3 g6 Kg5 Be4 Kf4 Bd3 Ng2 Kd5 Kg5 Kxc5 Nf4 Kd4 Nxg6 Bxg6 Kxg6 c5 Kxh5 c4 Kg6 c3 h5 c2 h6 c1=Q h7 Qg1+ Kf7 Qf2+ Kg8 Qg3+ Kf8 Qf4+ Kg7 Qg5+ Kh8 Qf6+ Kg8 Qg6+ Kh8 Qe8+ Kg7 Qe7+ Kg8 Qd8+ Kg7 Ke5 h8=Q Qxh8+ Kxh8
+1/2-1/2
+
+[Event "5MfrpcLA"]
+[Variant "standard"]
+[Result "0-1"]
+[White "ecclesiastic"]
+[Black "m0r1"]
+[WhiteElo "2020"]
+[BlackElo "1955"]
+e4 e5 Nf3 Nc6 d4 exd4 Nxd4 Nf6 Nc3 Bb4 Nxc6 bxc6 Bd3 d5 exd5 O-O dxc6 Bg4 Be2 Qe8 Be3 Rd8 Qc1 Qxc6 f3 Bxc3+ bxc3 Qxc3+ Bd2 Rxd2
+0-1
+
+[Event "f3yjFQT1"]
+[Variant "standard"]
+[Result "0-1"]
+[White "justintanas"]
+[Black "val1313"]
+[WhiteElo "1932"]
+[BlackElo "1892"]
+e4 e6 d4 d5 Nc3 Nf6 e5 Nfd7 f4 c5 Nf3 Nc6 Be3 cxd4 Nxd4 a6 Be2 Be7 Qd2 Nxd4 Bxd4 b5 a3 Bb7 O-O Rc8 f5 exf5 Rxf5 O-O Raf1 Nc5 Kh1 Ne6 Qe3 g6 R5f3 Bg5 Qf2 Qd7 Bd3 Rc4 Bxc4 dxc4 Be3 Bxf3 Qxf3 Be7 Bh6 Ng7 Ne4 Qe6 Nf6+ Kh8 Qf4 Rd8 h4 Nf5 Bg5 Rd4 Qf3 Qxe5 Ng4 Qc7 Re1 Bxg5 hxg5 Qg3 Qxg3 Nxg3+ Kh2 Rxg4 Re5 Nf5 Kh3 Rh4#
+0-1
+
+[Event "UE0Zkn82"]
+[Variant "standard"]
+[Result "1-0"]
+[White "dkol"]
+[Black "lalaze"]
+[WhiteElo "1887"]
+[BlackElo "1865"]
+d4 Nf6 Nf3 d5 g3 e6 Bg2 Be7 O-O O-O c4 dxc4 Ne5 c5 dxc5 Bxc5 Qc2 Qc7 Nxc4 Nc6 Bg5 Nd4 Qd3 Rd8 Bxf6 gxf6 Rd1 e5 Nc3 Bf5 Ne4 Rac8 Qe3 Nc2 Nxf6+ Kh8 Rxd8+ Rxd8 Qg5 Bg6 Nd5 Qc8 Qxe5+ Kg8 Rd1 Re8 Nf6+ Kf8 Nxe8 Qxe8 Qh8+ Ke7 Qe5+ Kf8 Qxc5+
+1-0
+
+[Event "f38e0Cx2"]
+[Variant "standard"]
+[Result "1/2-1/2"]
+[White "masedog91"]
+[Black "dcamp"]
+[WhiteElo "1698"]
+[BlackElo "1749"]
+e4 c6 Nc3 d5 Nf3 Nf6 e5 Ng8 d4 Bf5 Bd3 Bxd3 Qxd3 e6 Bd2 Nd7 O-O Ne7 Bg5 Qc7 a4 f6 exf6 gxf6 Bh4 e5 dxe5 fxe5 Bg3 Ng6 Rfe1 Bd6 Ng5 Nc5 Qd1 O-O-O Qg4+ Qd7 Qxd7+ Rxd7 Nf3 Re7 Nh4 Nxh4 Bxh4 Rf7 b4 Nd7 Rab1 e4 b5 Be5 Rb3 Rhf8 bxc6 bxc6 Bg3 Bxg3 fxg3 Rf2 Ne2 Nb6 Nf4 Rxc2 Reb1 Kd7 a5 Nc4 Rb7+ Kd6 Rxh7 Ra2 Rbb7 Ra1+ Kf2 Ra2+ Ke1 Ra1+ Ke2 Ra2+ Kd1 Ne3+ Kc1 Nxg2 Rbd7+ Ke5 Ng6+ Kd4 Nxf8 Kc3 Kd1 Kd3 Kc1 Kc3 Rb7 e3 Rhf7 Rc2+ Kb1 Kd2 Rb2 Rxb2+ Kxb2 e2 Rf2 Ke3 Rxe2+ Kxe2 Kc3 Ke3 h4 d4+ Kc2 Ke2 Ne6 Ne3+ Kc1 d3 Nd4+ Ke1 Nf3+ Ke2 Nd4+ Ke1 Nf3+ Ke2 Nd4+
+1/2-1/2
+
+[Event "OXIbrmqn"]
+[Variant "standard"]
+[Result "1/2-1/2"]
+[White "jockboi"]
+[Black "cookos"]
+[WhiteElo "1678"]
+[BlackElo "1667"]
+e4 c5 Nf3 e6 d4 cxd4 Nxd4 a6 Bd3 Qc7 Nc3 Nf6 Bg5 Be7 f4 d6 Qf3 Nc6 Nxc6 Qxc6 O-O-O b5 a3 Bb7 Qe2 O-O e5 dxe5 fxe5 Nd5 Bxh7+ Kxh7 Qh5+ Kg8 Nxd5 Bxg5+ Qxg5 exd5 h4 Qh6 Qxh6 gxh6 g4 Rfe8 Rde1 Re6 Re2 d4 Rg1 Rae8 g5 Rxe5 Rxe5 Rxe5 gxh6+ Kh7 Rg7+ Kxh6 Rxf7 Be4 Rf6+ Kh5 Rxa6 Rc5 c3 dxc3 bxc3 Rxc3+ Kb2 Rc6 Ra5 Bd3 a4 Kxh4 axb5 Rb6 Kc3 Rxb5 Rxb5 Bxb5
+1/2-1/2
+
+[Event "aKtgnNtm"]
+[Variant "standard"]
+[Result "0-1"]
+[White "mcbagel"]
+[Black "mixxedguy"]
+[WhiteElo "1659"]
+[BlackElo "1571"]
+d4 Nf6 c4 e5 dxe5 Ng4 Bf4 Nc6 e3 Ncxe5 h3 g5 Bg3 Nxf2 Bxf2 Qe7 Nc3 Qb4 Qb3 Qd6 Nd5 c6 Nc3 Bg7 Rd1 Qg6 Nf3 Nxf3+ gxf3 O-O Ne4 Be5 Nc5 b6 Nxd7 Bxd7 Rxd7 Rfd8 Rxd8+ Rxd8 h4 Qb1+ Ke2 Qc1 Be1 Bg3 Qc3 Qxc3 Bxc3 gxh4 Bf6 Rd6 Bxh4 Rh6 Bxg3 Rxh1 Bb8 Rh2+ Kd3 Rf2 Be2 a6 Ba7 b5 e4 Rg2 cxb5 cxb5 Ke3 h5 Bf1 Rxb2 a4 b4 Bxa6 Rb3+ Kf4 Ra3 Bb5 b3 Bd4 Ra2 Kg5 f6+ Bxf6 b2 Bxb2 Rxb2 Kxh5 Rg2 a5 Rg3 f4 Ra3 a6 Ra5 Kg4 Rxb5 f5 Ra5 Kg5 Rxa6 e5 Kf7 e6+ Ke7 Kg6 Ra1 Kg7 Rg1+ Kh6 Kf6 Kh7 Kxf5 e7 Re1 e8=Q Rxe8 Kg7 Re6 Kf7 Ra6 Ke7 Rh6 Kd7 Ke5 Kc7 Kd5 Kd7 Rh7+ Kc8 Kd6 Kb8 Kc6 Ka8 Kb6 Kb8 Rh8#
+0-1
+
+[Event "jxOvbEhc"]
+[Variant "standard"]
+[Result "0-1"]
+[White "stubenfisch"]
+[Black "sonata2"]
+[WhiteElo "2149"]
+[BlackElo "2178"]
+e4 c5 d4 cxd4 c3 g6 cxd4 d5 exd5 Nf6 Nc3 Nxd5 Qb3 Nb6 Bb5+ Bd7 Bf4 Nc6 Nf3 Bg7 Ne5 O-O Rd1 Nxe5 dxe5 Qc7 Bxd7 Nxd7 Nd5 Qd8 e6 Nc5 Qb5 Nxe6 Nf6+ Bxf6 Rxd8 Rfxd8 Be3 b6 O-O Nc7 Qe2 Nd5 Rc1 Nxe3 fxe3 Rd7 Rd1 Rc7 e4 Be5 Qb5 Rc5 Qd7 e6 Qb7 Rac8 Rd7 R5c7 Rxc7 Rxc7 Qa6 Bd4+ Kf1 Rc2 Qd3 Rf2+ Ke1 e5 h4 h5 Qxd4 exd4 Kxf2 Kg7 e5 f6 e6 Kf8 Kf3 Ke7 Ke4 Kxe6 Kxd4 Kf5
+0-1
+
+[Event "7N2K1S3e"]
+[Variant "standard"]
+[Result "1/2-1/2"]
+[White "nviper06"]
+[Black "drchessdad"]
+[WhiteElo "2094"]
+[BlackElo "2079"]
+e4 e6 d4 d5 Nd2 dxe4 Nxe4 Nd7 Nf3 Ngf6 Bd3 c5 Nxc5 Nxc5 dxc5 Bxc5 O-O O-O Bg5 b6 Qe2 Bb7 Rad1 Qc7 Ne5 Rfd8 Bxf6 gxf6 Ng4 Qf4 Be4 Bxe4 Qxe4 Qg5 Ne3 f5 Qe5 Bxe3 fxe3 Qh5 Rd4 Qe2 Rf3 Qe1+ Rf1 Qe2 Rf3 Qe1+ Rf1 Qe2
+1/2-1/2
+
+[Event "cSiuQuyL"]
+[Variant "standard"]
+[Result "1-0"]
+[White "paulze2000"]
+[Black "nerja25390"]
+[WhiteElo "1993"]
+[BlackElo "1936"]
+d4 d5 c4 c6 Nf3 Nf6 Nc3 e6 Bg5 Nbd7 cxd5 exd5 e3 Qa5 Qc2 Ne4 Bh4 Bb4 Nd2 Nxc3 bxc3 Bxc3 Rc1 Bxd2+ Qxd2 Qxd2+ Kxd2 O-O Bd3 Nb6 Bg3 Be6 Rb1 Rfc8 Rhc1 h6 a4 Nxa4 Rxb7 Nb6 Ra1 Nc4+ Kc3 a5 Ra4 g5 e4 h5 Bxc4 dxc4 Be5 Kh7 f3 Kg6 g3 f6 Bd6 Bh3 f4 gxf4 gxf4 Bg2 f5+ Kh6 Bf4#
+1-0
+
+[Event "Iu9WVmuA"]
+[Variant "standard"]
+[Result "0-1"]
+[White "rahulukumar"]
+[Black "marcos_paulo"]
+[WhiteElo "1914"]
+[BlackElo "1937"]
+e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Bg5 e6 f4 Be7 Qf3 h6 Bh4 Qc7 O-O-O Nbd7 Be2 O-O Qg3 Nc5 Bf3 e5 fxe5 dxe5 Bxf6 Bxf6 Nd5 Qd8 Ne2 Be6 Nec3 b5 Qf2 Rc8 h4 Nd7 g4 b4 Nxf6+ Qxf6 Nd5 Bxd5 Rxd5 Nb6 Rdd1 Qf4+ Kb1 Nc4 Rhg1 Rfd8 Rxd8+ Rxd8 Ka1 Rd2 Qg3 Rd1+
+0-1
+
+[Event "EOoMpWT8"]
+[Variant "standard"]
+[Result "1-0"]
+[White "chesshavoc"]
+[Black "qplayer"]
+[WhiteElo "1857"]
+[BlackElo "1913"]
+e4 c5 Nf3 Nc6 Bb5 g6 O-O Bg7 Re1 e5 Bxc6 dxc6 d3 Qc7 a4 a5 Na3 Ne7 Nc4 Be6 b3 O-O Be3 b6 Qd2 Rfd8 Bh6 Bh8 Ng5 Bxc4 bxc4 Qd7 Qe3 f5 Qh3 Bf6 Rab1 Rab8 Nf3 f4 Qxd7 Rxd7 g3 Kh8 h4 Ng8 Bg5 Bg7 gxf4 h6 fxe5 hxg5 Nxg5 Bxe5 Kg2 Nf6 Nh3 Nh5 Rg1 Rf7 Ng5 Rf4 f3 Kg7 Ne6+ Kf6 Nxf4 Nxf4+ Kf1 Bc3 Rb3 Bd4 Rg4 Ne6 c3 Be5 Ke2 Rb7 Ke3 Kg7 f4 Bc7 f5 Nf8 h5
+1-0
+
+[Event "Dx4d1PlN"]
+[Variant "standard"]
+[Result "1/2-1/2"]
+[White "tamarindsauce"]
+[Black "kamizik"]
+[WhiteElo "1823"]
+[BlackElo "1764"]
+Nf3 Nf6 d4 d5 e3 c5 c4 cxd4 exd4 Bg4 h3 Bh5 Be2 e6 O-O Be7 cxd5 Nxd5 Bb5+ Nd7 Nbd2 a6 Bc4 N7f6 Re1 b5 Bxd5 Nxd5 Ne4 Bb4 Bd2 Bxf3 Qxf3 Bxd2 Nxd2 O-O a3 Rc8 Rac1 Qg5 Ne4 Qe7 Nc5 Qd6 Re4 Nf6 Rh4 e5 Qe3 exd4 Rxd4 Qb6 Nb3 a5 Rxc8 Rxc8 Qf4 a4 Nd2 Rd8 Rxd8+ Qxd8 Ne4 Nxe4 Qxe4 Qd1+ Kh2 g6 Qe8+ Kg7 Qxb5 Qd6+ g3 Qd4 Kg2 Qe4+ Kh2 Qd4 Qe2 Qb6 Kg1 h5 Qe5+ f6 Qe7+ Kg8 Qe8+ Kg7 Qxa4 Qxb2 Qb4 Qc1+ Kh2 h4 gxh4 Qc7+ Kg2 Qc6+ Kg3 Qd5 Qe7+ Kg8 Qxf6 Qd3+ Qf3 Qf1 a4 Qg1+ Kf4 Qc1+ Qe3 Qc4+ Qe4 Qc1+ Kg3 Qg1+ Qg2 Qa1 Kh2 Kh7 Qe4 Qf1 Qf4 Qd1 a5 Qa1 Qf7+ Kh6 Qf4+ Kh7 Qc7+ Kh6 Qb6 Qe5+ Kg2 Qd5+ f3 Qd2+ Kg3 Qe1+ Kf4 Qxh4+ Ke5 Qg3+ Ke4 Qh4+ f4 Qe1+ Kf3 Qc3+ Qe3 Qxa5 f5+ Kh5 fxg6 Qf5+ Qf4 Qxf4+ Kxf4 Kxg6 Kg4 Kh6 h4 Kh7 Kh5 Kh8 Kg6 Kg8 Kh6 Kh8 Kg6 Kg8 h5 Kh8 Kh6 Kg8 Kg6 Kh8 h6 Kg8 h7+ Kh8 Kh6
+1/2-1/2
+
+[Event "IBRwpu53"]
+[Variant "standard"]
+[Result "1/2-1/2"]
+[White "donpauleone"]
+[Black "patheticus"]
+[WhiteElo "1491"]
+[BlackElo "1508"]
+e4 e6 d4 d5 e5 c5 c3 Nc6 Nf3 Qb6 Nbd2 cxd4 cxd4 Bd7 a3 Nxd4 Bd3 Ne7 O-O Bb5 Bxb5+ Nxb5 Nb3 Nf5 a4 Nc7 Nbd4 Nxd4 Nxd4 Bc5 Be3 O-O b3 Na6 Qd3 Bxd4 Bxd4 Nb4 Qe3 Qa6 Qd2 Nc6 Rac1 Qa5 Qe3 Qd8 Bc3 d4 Bxd4 Qxd4 Qxd4 Nxd4 Rc7 Rab8 b4 a6 f4 Rfc8 Rxc8+ Rxc8 Kf2 Nc2 Rc1 Kf8 Ke2 Ke8 Kd2 Kd7 Rxc2 Rxc2+ Kxc2 Kc6 Kd3 Kd5 a5 h6 g3 g5
+1/2-1/2
+
+[Event "A0cnJH53"]
+[Variant "standard"]
+[Result "1/2-1/2"]
+[White "narf64"]
+[Black "arian13862007"]
+[WhiteElo "2187"]
+[BlackElo "2199"]
+c4 e6 g3 d5 Bg2 Nf6 Nf3 Be7 O-O O-O b3 c5 Bb2 Nc6 e3 dxc4 bxc4 Qd3 Qb3 Rd8 Rd1 Nb4 Ne5 Qxb3 axb3 Nd7 Nxd7 Rxd7 d4 Bf6 Na3 Kf8 Rd2 Rb8 Nb5 a6 Na7 Ra8 Nxc8 Rxc8 Rad1 Rcd8 Bc3 Ke8 h4 Nc6 Bxc6 bxc6 Ba5 Rb8 Rd3 cxd4 exd4 Rdb7 Rb1 Be7 Bd2 Rd7 Ra1 Ra7 Be3 Rd8 d5 Rad7 Rxa6 cxd5 c5 d4 c6 Rd5 c7 Rc8 Rxd4 Rxc7 Rxd5 exd5 Ra8+ Kd7 Ra7 Rxa7 Bxa7 Kc6 Bd4 g6 Kf1 Kb5 Bc3 Bb4 Bb2 Bc5 Bc3 d4 Bd2 Bb4 Bc1 Bc3 Ke2 Kb4 Kd3 Kxb3 f3 Kb4 g4 h5 gxh5 gxh5 Bg5 Kc5 Bf6 Kd5 Bd8 Ke6 Ke4 Ba1 Bc7 Bb2 Bd8 Bc3 Bc7 Be1 Kxd4 Kf5 Ke3 Bxh4 Ke2 Bg5 Kf1 Bf4 Bd8 f6 Bxf6 Kxf6 Kg1 Ke5 Kh1 Kd4 Kg1 Ke3 Kh1 Kf2
+1/2-1/2
+
+[Event "js4cZlcr"]
+[Variant "standard"]
+[Result "1-0"]
+[White "der_bo"]
+[Black "lundiz"]
+[WhiteElo "2044"]
+[BlackElo "2133"]
+d4 d5 c4 c6 Nc3 Nf6 Nf3 dxc4 a4 Bf5 Ne5 e6 Nxc4 Bb4 f3 O-O e4 Bxe4 fxe4 Nxe4 Qd3 Qh4+ g3 Bxc3+ bxc3 Nxg3 Qxg3 Qe4+ Kf2 Qxh1 Bh6 g6 Qe5 f6 Qxe6+ Kh8 Bxf8 Qxh2+ Bg2 Qh4+ Ke2 Nd7 Qxd7 Rxf8 Rh1 Qg4+ Qxg4
+1-0
+
+[Event "5a6O4PET"]
+[Variant "standard"]
+[Result "0-1"]
+[White "ascoliloko"]
+[Black "postit"]
+[WhiteElo "2005"]
+[BlackElo "2016"]
+Nf3 c6 b3 d5 Bb2 Bg4 h3 Bh5 g4 Bg6 Nh4 Be4 Bg2 Bxg2 Nxg2 e6 d3 h5 Ne3 d4 Nc4 hxg4 h4 Qd5 Rh2 b5 e4 Qh5 Nca3 Qe5 Rh1 Bb4+ Nd2 Nf6 Qe2 a5 O-O-O a4 f4 Qxf4 Rhf1 Qe5 Nac4 bxc4 Nxc4 Qh5 Bxd4 axb3 axb3 Qxh4 Rh1 Qxh1 Rxh1 Rxh1+ Kb2 Rha1
+0-1
+
+[Event "vQhzJFvP"]
+[Variant "standard"]
+[Result "0-1"]
+[White "brokenstones"]
+[Black "nlance"]
+[WhiteElo "1869"]
+[BlackElo "1942"]
+e4 e5 Nf3 Nf6 Nc3 Nc6 Bc4 Nxe4 Bxf7+ Kxf7 Nxe4 d5 Neg5+ Kg8 d3 h6 Nh3 Bd6 b3 Kh7 Bb2 Rf8 Qd2 Bxh3 gxh3 Rxf3 O-O-O Qf6
+0-1
+
+[Event "TOfB6gLQ"]
+[Variant "standard"]
+[Result "1-0"]
+[White "dystopia753"]
+[Black "herzog51"]
+[WhiteElo "1841"]
+[BlackElo "1852"]
+e4 d6 d4 Nf6 Nc3 g6 f4 Bg7 Nf3 O-O Bd3 Na6 O-O c5 d5 Bg4 Bc4 Nc7 h3 Bxf3 Qxf3 Nd7 a4 a6 Qd3 Nb6 Ba2 Bxc3 Qxc3 Nxa4 Qa5 b5 b3 Nxd5 Qxd8 Raxd8 exd5 Nc3 Bb2 Nxd5 c4 bxc4 bxc4 Nb4 Bb3 Ra8 Bc3 a5 Ra4 Rfb8 Rfa1 Nd3 Rxa5 Rxa5 Rxa5 f6 Rb5 Ra8 g3 Kf7 Ra5 Rxa5 Bxa5 Nb4 Bxb4 cxb4 Kf2 Ke8 Ke3 Kd7 Ba4+ Ke6 Bb3 Kd7 Ke4 e6 g4 Ke7 f5 gxf5+ gxf5 e5 Kd5 Kd7 Ba4+ Kc7 h4 h6 h5 Kb6 Kxd6 e4 c5+ Ka5 Bd1 e3 c6 b3 c7
+1-0
+
+[Event "xFVmSblS"]
+[Variant "standard"]
+[Result "1-0"]
+[White "souzamoraes"]
+[Black "smothermemate"]
+[WhiteElo "1773"]
+[BlackElo "1816"]
+d4 d5 c4 c6 Nf3 Nf6 Nc3 e6 e3 Nbd7 Bd3 dxc4 Bxc4 b5 Bd3 Bd6 O-O Bb7 e4 e5 dxe5 Nxe5 Nxe5 Bxe5 f4 Bd4+ Kh1 O-O e5 Nd5 Bxh7+ Kxh7 Qxd4 a6 Rf3 Nxc3 bxc3 Qxd4 cxd4 Rad8 Be3 Kg8 Rf2 Rd5 Rb2 Rfd8 a4 c5 dxc5 Bc6 axb5 Bxb5 h3 Rd3 Bf2 Bc6 Rxa6 Rxh3+ Kg1 Rd1+ Be1 Rxe1+ Kf2 Rhh1 Rxc6 Rhf1+ Kg3 Re4 Rc8+ Kh7 Rf2 Rxf4 Rxf4
+1-0
+
+[Event "UTy145wm"]
+[Variant "standard"]
+[Result "1-0"]
+[White "reheatedleftovers"]
+[Black "aivo2"]
+[WhiteElo "1645"]
+[BlackElo "1729"]
+d4 f5 c4 e6 Nc3 Nf6 a3 Be7 Nf3 O-O Qc2 d6 e3 e5 dxe5 dxe5 Nxe5 Nbd7 Nxd7 Bxd7 Bd2 Ng4 h3 Nh6 O-O-O c6 Be2 Rb8 Rhg1 b5 cxb5 cxb5 Nd5 Rc8 Bc3 Qe8 Qb3 Kh8 Nxe7 Qxe7 Kb1 Rf6 Bxf6 Qxf6 Rxd7 Qc6 Rgd1 a5 Rd8+ Rxd8 Rxd8+
+1-0
+
+[Event "IJrooCZg"]
+[Variant "standard"]
+[Result "0-1"]
+[White "pawnsac101"]
+[Black "bosun1234"]
+[WhiteElo "1541"]
+[BlackElo "1465"]
+e4 e6 d4 d5 exd5 exd5 Bd3 Bd6 h3 Nc6 Nf3 Nf6 O-O O-O Re1 Re8 Bg5 Rxe1+ Qxe1 Nb4 Bxf6 Qxf6 Qe8+ Bf8 Bxh7+ Kxh7 Na3 Qe7 Qb5 c6 Qf1 Bf5 Re1 Qd7 Ne5 Qc7 Qe2 Kg8 c3 f6 cxb4 fxe5 dxe5 Bxb4 Rc1 Bxa3 bxa3 Re8 Re1 Qa5 Rb1 Bxb1
+0-1
+
+[Event "ZW93tyRD"]
+[Variant "standard"]
+[Result "1-0"]
+[White "pierremarc1986"]
+[Black "twinkletoes"]
+[WhiteElo "2145"]
+[BlackElo "2168"]
+e4 c5 Nc3 Nc6 f4 g6 Nf3 Bg7 Bb5 Nd4 O-O a6 Bc4 b5 Bd5 Rb8 d3 e6 Bb3 Bb7 Nxd4 Bxd4+ Kh1 Ne7 Ne2 Bg7 c3 c4 Bc2 cxd3 Bxd3 f5 Ng3 O-O Qe2 Rc8 a4 Qa5 b4 Qc7 axb5 Qxc3 Bd2 Qxa1 Rxa1 Bxa1 bxa6 Bxe4 Nxe4 fxe4 Bxe4 Bc3 Bb7 Rc7 g3 Bd4 b5 Nf5 Qd3 Bb6 Kg2 d5 Bc3 d4 Bb4 Rd8 Bc6 Ne7 Bb7 Nf5 Kf3 Nd6 Bc6 Kf7 Ke2 Nf5 g4 Ne7 Bb7 Nd5 Bd2 Nc3+ Kf3 Rc5 Bc6 Nd5 f5 gxf5 gxf5 e5 Qb3 Kf6 Ke4 Nc7 h4 h6 Qg3 Nxb5 Qg6+ Ke7 Qe6+ Kf8 Bxh6#
+1-0
+
+[Event "z2ABh9ku"]
+[Variant "standard"]
+[Result "0-1"]
+[White "starbaker"]
+[Black "wildgoosechess"]
+[WhiteElo "2035"]
+[BlackElo "2104"]
+c4 e5 g3 Nc6 Nc3 f5 Bg2 Nf6 e3 d5 cxd5 Nb4 d3 Nfxd5 Nxd5 Nxd5 Nf3 Bd6 O-O Nf6 b3 O-O Bb2 Qe7 Qc2 Rb8 Nd2 c6 Nc4 Bc7 Rfe1 Re8 Rad1 Qf7 e4 fxe4 dxe4 Qh5 f3 Bh3 Nd6 Bxd6 Rxd6 Bxg2 Kxg2 Qg5 Bc1 Qg6 Red1 h5 Qd2 Qf7 Qg5 Qe7 Bb2 Ng4 Qxe7 Ne3+ Kg1 Rxe7 R1d2 Rf7 R6d3 Rxf3 Rd8+ Kh7 h3 Rxd8 Rxd8 Rf1+ Kh2 Rf2+
+0-1
+
+[Event "Oc593abF"]
+[Variant "standard"]
+[Result "1-0"]
+[White "rodeo"]
+[Black "merkava777"]
+[WhiteElo "1948"]
+[BlackElo "1950"]
+e4 c5 Nf3 Nc6 d4 cxd4 Nxd4 Nf6 Nc3 e5 Ndb5 d6 Bg5 a6 Na3 Be7 Nc4 b5 Bxf6 gxf6 Ne3 Nd4 Bd3 Rg8 Qh5 Bb7 Qxh7 Kd7 Qxf7 f5 Nxf5 Rxg2 Nxd4 exd4 Nd5 Bxd5 Qxd5 Qa5+ Ke2 Rxf2+ Kxf2 Qd2+ Kg3 Bh4+ Kxh4 Qf4+ Kh3 Rh8+ Kg2 Qg4+ Kf2 Rf8+ Qf5+ Rxf5+ exf5 Qf4+ Ke1 Qe3+ Be2 Qe4 Kd2 Qe3+ Kd1 d3 cxd3 Qd4 Kc2 Qc5+ Kd1 Qd4 Rb1 Qa4+ Kc1 Qf4+ Kc2 Qa4+ b3 Qxa2+ Rb2 Qa3 Rf1 Qc5+ Kb1 Ke7 Bh5 Qd5 Re2+ Kf6 Re6+ Kg5 Be2 Qxb3+ Kc1 Qc3+ Kd1 b4 h4+ Kxh4 Rh6+ Kg5 Rg6+ Kh4 Rh1#
+1-0
+
+[Event "oMBeYQr1"]
+[Variant "standard"]
+[Result "1-0"]
+[White "aquilesmm"]
+[Black "wo_cheng_si_le"]
+[WhiteElo "1931"]
+[BlackElo "1895"]
+Nf3 d5 c4 e6 g3 Nf6 Bg2 d4 b3 Nc6 d3 Be7 O-O e5 Nbd2 O-O Bb2 Re8 a3 a5 Qc2 Bc5 Ng5 Bf5 Rfc1 Ra6 Bd5 Nxd5 Nxf7 Kxf7 cxd5 Qxd5 Qxc5 Qe6 b4 axb4 axb4 Rxa1 Bxa1 Qa2 Nf3 h6 b5 Qxe2 Nh4 Ne7 Qxc7 Bxd3 Qxb7 Be4 Qd7 g5 Ng2 Qf3 Qh3 g4 Qh5+ Ke6 Qxh6+ Kd7 Kf1 Qxg2+ Ke1 Qf3 b6 Bd3 Rc7+ Kd8 Qd6#
+1-0
+
+[Event "OycmWBXL"]
+[Variant "standard"]
+[Result "1-0"]
+[White "colwem"]
+[Black "samhagen"]
+[WhiteElo "1822"]
+[BlackElo "1833"]
+e4 c5 d4 cxd4 c3 dxc3 Nxc3 g6 Nf3 Bg7 Bc4 e6 Nb5 d5 Bf4 e5 Bxe5 Bxe5 Nxe5 a6 Bxd5 Nh6 Qa4 O-O Nc3 Qg5 Qd4 Nc6 Nxc6 bxc6 Bxc6 Rd8 Nd5 Qxg2 Nf6+ Kg7 Nh5+ Kf8 Qg7+ Ke7 Qf6+ Kf8 Qxd8#
+1-0
+
+[Event "bRdrIQ6Q"]
+[Variant "standard"]
+[Result "1-0"]
+[White "nodortsam"]
+[Black "pdesaiii"]
+[WhiteElo "1803"]
+[BlackElo "1783"]
+e4 e5 Nf3 Nf6 Nxe5 d6 Nf3 Nxe4 d4 d5 Bd3 Bd6 c4 c6 O-O O-O Nc3 Nxc3 bxc3 dxc4 Bxc4 Bf5 Re1 Qa5 Bd2 Nd7 Nh4 Bg6 Nxg6 hxg6 Bb3 Rfe8 Rb1 Qc7 h3 Nf6 Qf3 Re7 Bg5 Rxe1+ Rxe1 Re8 Rxe8+ Nxe8 Qe4 Qd7 Qxg6 Kf8 Qh7 Nf6 Bxf6 gxf6 Qh8+ Ke7 Qh7 Qe8 Qe4+ Kd7 Qf5+ Kc7 g3 Qe1+ Kg2 Qxc3 Qxf6 Qb4 Qxf7+ Kb6 Qc4 a5 Qxb4+ Bxb4 d5 Kb5 dxc6 bxc6 g4 c5 a4+ Kc6 Kf3 Kd6 Ke4 Ke7 f4
+1-0
+
+[Event "p2etF5s4"]
+[Variant "standard"]
+[Result "1-0"]
+[White "hakri"]
+[Black "kolskegg"]
+[WhiteElo "1715"]
+[BlackElo "1701"]
+d4 d5 c4 dxc4 Nc3 Nf6 e3 e6 Bxc4 Bb4 Bd2 c5 a3 cxd4 axb4 dxc3 Bxc3 Qe7 Nf3 O-O O-O Ne4 Bd4 Qxb4 Bd3 f5 Bxe4 fxe4 Ng5 Nc6 Qh5 h6 Qg6
+1-0
+
+[Event "w0dnHXtc"]
+[Variant "standard"]
+[Result "0-1"]
+[White "lepertoe"]
+[Black "rskyoz"]
+[WhiteElo "1622"]
+[BlackElo "1586"]
+d4 d5 Bf4 Bf5 e3 c5 c3 e6 Nf3 Qb6 Qb3 c4 Qxb6 axb6 Be2 Nc6 O-O Nf6 Nbd2 Be7 b3 b5 b4 Ra3 Rfc1 O-O Bd1 Rfa8 Nb1 Bxb1 Raxb1 Rxa2 Ne5 Nxe5 Bxe5 Ne4 Rc2 Rxc2 Bxc2 Nxc3 Rf1 Bxb4 h3 Ba3 Ra1 Ra6 g4 b4 f3 b3 Bb1 b2 Rxa3 Rxa3 Bd6 Ra1 e4 Rxb1+ Kg2 Rd1 Bb4 b1=Q Bxc3 Qc2+ Kg3 Qxc3 exd5 Qe1+ Kf4 Rxd4+ Kg5 Rxd5+ Kf4 Qe5#
+0-1
+
+[Event "u96GVWbY"]
+[Variant "standard"]
+[Result "1-0"]
+[White "scurly"]
+[Black "wahlkatalane"]
+[WhiteElo "2192"]
+[BlackElo "2159"]
+d4 d5 c4 e5 dxe5 d4 Nf3 Nc6 Nbd2 Nge7 Nb3 Nf5 e4 dxe3 Qxd8+ Nxd8 fxe3 Nc6 a3 Be7 Nbd4 Bd7 Bd3 Nh4 O-O Nxf3+ Nxf3 Bg4 Be4 Bxf3 Bxf3 Nxe5 Bxb7 Rd8 b3 Rb8 Bb2 Rxb7 Bxe5 f6 Bf4 Rxb3 Rfb1 Rxb1+ Rxb1 O-O Rb7 Bc5 Rxc7 Bb6 Rc6 g5 c5 gxf4 cxb6 axb6 exf4 b5 Kf2 Kg7 Rc7+ Kg6 f5+ Kh6 g4 Ra8 Rc3 Ra4 Kg3 b4 axb4 Rxb4 Rc6 Kg7 Kh4 Rb3 g5 fxg5+ Kxg5 Rb7 Ra6 Rf7 f6+ Kg8 Kf5 Rb7 Ke6 Rb8 Ra7 Re8+ Re7 Rf8 Rg7+ Kh8 Rd7 Kg8 Rg7+ Kh8 Rg1 Ra8 Rd1 Kg8 Rg1+ Kf8 Rd1 Re8+ Kf5 Re2 Rd8+ Kf7 Rd7+ Kg8 Rg7+ Kh8 Rg3 Rxh2 f7 Rf2+ Ke6 Re2+ Kf6 Rf2+ Ke7 Re2+ Kf8 h6 Rd3 Ra2 Rd8 Kh7 Ke7 Re2+ Kd6 Rd2+ Kc7 Rc2+ Kb6 Rb2+ Kc5 Rc2+ Kb4 Rf2 f8=Q Rxf8 Rxf8 Kg6 Kc4 Kg5 Kd4 Kg4 Ke3 h5 Kf2 Kh3 Kg1 Kg3 Ra8 h4 Ra3+ Kg4 Kg2
+1-0
+
+[Event "0PwLK3Z8"]
+[Variant "standard"]
+[Result "0-1"]
+[White "tommelskinke"]
+[Black "carbonhorse"]
+[WhiteElo "2022"]
+[BlackElo "1999"]
+Nf3 c5 c4 Nc6 g3 Nf6 Nc3 g6 Bg2 Bg7 d4 cxd4 Nxd4 O-O O-O Qa5 e3 Ne5 Qe2 d6 Nd5 Nxd5 Bxd5 Qa6 b3 Bg4 Qc2 Nf3+ Bxf3 Bxf3 Bb2 Bg4 Qe4 Bf5 Qxe7 Rfe8 Qg5 h6 Qf4 Re4 Qf3 Rae8 Qe2 Bxd4 Bxd4 Rxd4 Qb2 Rde4 Rad1 Bh3 Rfe1 Qc6 Rd5 Qd7 Red1 Qg4 f4 Rxe3 Rxd6 Re1+ Rxe1 Rxe1+ Kf2 Rf1+ Ke3 Qf3+ Kd4 Rd1+ Kc5 Qe3+
+0-1
+
+[Event "fVCcglFZ"]
+[Variant "standard"]
+[Result "0-1"]
+[White "mini23"]
+[Black "hhh1001"]
+[WhiteElo "1943"]
+[BlackElo "1966"]
+e4 c5 Bc4 e6 Nc3 a6 a4 Nc6 Nf3 Nf6 d3 d5 exd5 exd5 Ba2 Qe7+ Qe2 Nb4 Qxe7+ Bxe7 Bb1 O-O Na2 Nc6 c4 d4 Bf4 Nh5 Bc7 Bg4 Ne5 Nxe5 Bxe5 Bf6 Bxf6 Rfe8+ Kf1 Nxf6 f3 Bf5 Bc2 Re3 Rd1 Rae8 Nc1 Nh5 Kf2 Nf4 Rhe1 Rxe1 Rxe1 Rxe1 Kxe1 Nxg2+ Ke2 a5 Kf2 Ne3 Bb1 Nd1+ Ke2 Nxb2 Bc2 Nxc4 dxc4 Bxc2 Nd3 b6 Ne5 Bxa4 Kd3 f6 Ng4 Bc6 f4 Kf7 Nf2 Ke6
+0-1
+
+[Event "enDQdr9Y"]
+[Variant "standard"]
+[Result "1-0"]
+[White "jwwells42"]
+[Black "yigg"]
+[WhiteElo "1956"]
+[BlackElo "1911"]
+e4 e6 d4 d5 Nc3 Bb4 e5 c5 a3 Bxc3+ bxc3 Ne7 Qg4 Qc7 Bd3 cxd4 Ne2 Nbc6 Qxg7 Rg8 Qf6 Ng6 Bxg6 Rxg6 Qh8+ Ke7 Nf4 Rg4 h3 Nxe5 hxg4 Qxc3+ Kd1 Nxg4 Nd3 Qxa1 Ke2 Qc3 Bg5+ Kd6 Qd8+ Kc6 Nb4+ Kb5 Qe8+ Ka5 Bd2 Qc4+ Nd3+ Ka6 Kf3 e5 Nb4+ Kb6 Qd8+ Kb5 a4+ Kc5 Qc7#
+1-0
+
+[Event "o06xHlLe"]
+[Variant "standard"]
+[Result "0-1"]
+[White "netherfiel"]
+[Black "sidetracked_owl"]
+[WhiteElo "1847"]
+[BlackElo "1882"]
+c4 f5 d4 e6 g3 Nf6 Bg2 Be7 e3 d6 Ne2 O-O O-O Qe8 Nbc3 c6 b3 e5 e4 fxe4 dxe5 dxe5 Nxe4 Qg6 N2c3 Bf5 Qe2 Nbd7 Bb2 Rae8 Qe3 Nxe4 Nxe4 b6 Rad1 Nc5 Rfe1 Nxe4 Bxe4 Bc5 Bxf5 Qxf5
+0-1
+
+[Event "97G9vcAP"]
+[Variant "standard"]
+[Result "0-1"]
+[White "shmeeshlov"]
+[Black "tolsonb"]
+[WhiteElo "1751"]
+[BlackElo "1817"]
+d4 d5 c4 e6 Nc3 Nf6 Bg5 Nbd7 Nf3 Bb4 e3 c5 cxd5 exd5 Qb3 Qa5 Bxf6 Nxf6 a3 Bxc3+ bxc3 Ne4 Bb5+ Ke7 Rc1 c4 Qb4+ Qxb4 axb4 a5 Nd2 Nd6 Ba4 axb4 Bd1 b3 Rb1 Bf5 Bf3 Bxb1 Nxb1 Ne4 Bxe4 dxe4 O-O b5 g4 b2 Kg2 Ra1 Kg3 b4 cxb4 c3 Kg2 c2 Nd2 Rxf1
+0-1
+
+[Event "60DqqpXc"]
+[Variant "standard"]
+[Result "1-0"]
+[White "erv123"]
+[Black "slamchops"]
+[WhiteElo "1695"]
+[BlackElo "1719"]
+d4 e6 Bf4 f5 Nf3 Nf6 Nc3 Bd6 e3 b6 Qd2 Bb7 Be2 Bxf4 exf4 O-O O-O-O c5 Rhg1 Qc7 Nb5 Qd8 Nd6 Ne4 Nxb7 Qc7 Qe3 Qxb7 Nh4 Nc6 d5 Nd4 dxe6 Nxe2+ Qxe2 dxe6 f3 g5 fxg5 Nxg5 g4 Qc7 gxf5 Qf4+ Kb1 Qxh4 Rg4 Qh6 f4 Rxf5 Rdg1 Kf7 fxg5 Qg6 h4 Rd8 b3 Rfd5 Rf4+ Ke7 Rf6 Qg8 Re1 R8d6 Qa6 Rd1+ Rxd1 Rxd1+ Kb2 Rd7 Qe2 Rd6 Qe5 Qg7 Rxe6+ Kf7 Qxg7+ Kxg7 Rxd6
+1-0
+
+[Event "bhhVJmuk"]
+[Variant "standard"]
+[Result "1-0"]
+[White "uga40"]
+[Black "zopherus"]
+[WhiteElo "1565"]
+[BlackElo "1546"]
+d4 d5 c4 c6 Nc3 Nf6 Nf3 Bf5 cxd5 cxd5 Bg5 Ne4 Nxe4 Bxe4 e3 h6 Bh4 Qb6 Qa4+ Nc6 Bb5 f6 Rc1 Rc8 O-O a6 Bxc6+ bxc6 Nd2 Bd3 Rfe1 e6 Nb3 Bb5 Qa5 Qxa5 Nxa5 Bb4 Nb7 Ke7 Red1 Be2 Re1 Bxe1 Rxe1 Bb5 Nc5 Rhe8 b3 Kd6 a4 e5 Bg3 Ra8 axb5 axb5 f3 g5 e4 h5 exd5 Kxd5 Nd7 Ke6 Nc5+ Kf5 dxe5 fxe5 Nd3 e4 fxe4+ Rxe4 Rf1+ Kg6 Ne5+ Kg7 Nxc6 Ra3 Be5+ Kg6 Rf6+ Kh7 Rf7+ Kh6 Bg7+ Kg6 Rd7 Rxb3 Ne5+ Kf5 Rd5 Rb1+ Kf2 Rf4+ Ke3 Re4+ Kd2 Rb2+ Kc3 b4+ Kxb2 Re2+ Kb3
+1-0
+
+[Event "1R5adx3z"]
+[Variant "standard"]
+[Result "1-0"]
+[White "bigevo8"]
+[Black "adultimprover"]
+[WhiteElo "2153"]
+[BlackElo "2164"]
+d4 d5 Bf4 Nf6 e3 c5 c3 Nc6 Nd2 Bf5 Ngf3 h6 Be2 e6 Ne5 Be7 h3 O-O g4 Bh7 g5 hxg5 Bxg5 cxd4 exd4 Ne4 Be3 Bh4 Ndf3 Nxe5 dxe5 Be7 h4 f5 Nd4 Qc8 f4 Ng3 Rh3 Nxe2 Qxe2 a6 a4 Kf7 Rg3 Rh8 Qh5+ g6 Qh6 Qf8 Qxf8+ Raxf8 Rh3 Bg8 Bf2 g5 fxg5 Bxg5 Ke2 Ke7 Rg1 Bh6 Nb3 Rc8 Nc5 Rc7 b4 Bf7 Kd3 Bh5 Rhg3 Bg4 R3g2 Bf4 Kd4 a5 Rxg4 fxg4 Rxg4 Bh6 Rg6 Rxc5 Kxc5 axb4 cxb4 Rh7 Kb6 Bg7 Bg3 Kf7 Rg4 Ke8 a5 Kf8 b5 Bh6 Bf2 Bg7 Bc5+ Kf7 Bd6 Rh5 Kxb7 Bxe5 Bxe5 Rxe5 a6 d4 b6 d3 Rd4 Rd5 Rxd3 Rxd3 a7 Ra3 a8=Q
+1-0
+
+[Event "6kGoGAM1"]
+[Variant "standard"]
+[Result "1/2-1/2"]
+[White "f1nn33"]
+[Black "antaniserse"]
+[WhiteElo "2051"]
+[BlackElo "2124"]
+d4 Nf6 Bf4 d5 e3 c5 c3 Nc6 Nd2 Bf5 Qb3 Qd7 Ngf3 c4 Qb5 e6 b3 cxb3 axb3 Be7 Be2 a6 Qb6 Bd8 Qc5 Be7 Qb6 Bd8 Qc5 Be7 Qb6
+1/2-1/2
+
+[Event "1lZzfpQC"]
+[Variant "standard"]
+[Result "0-1"]
+[White "texaspete09"]
+[Black "fyrox96"]
+[WhiteElo "2036"]
+[BlackElo "2028"]
+b3 d5 Bb2 Bg4 f3 Bf5 e3 e6 f4 Nf6 Nf3 Be7 Be2 O-O O-O c5 Ne5 h6 d3 Bh7 Nd2 Nfd7 Ndf3 Nxe5 Nxe5 Bf6 Qe1 Bxe5 fxe5 Nc6 Qg3 d4 exd4 cxd4 Ba3 Qa5 Bxf8 Rxf8 Bf3 Nxe5 Bxb7 Nd7 Rf2 Qe5 Qxe5 Nxe5 Re2 Ng4 Be4 Ne3 c3 Bxe4 dxe4 e5 cxd4 exd4 Rd2 Re8 Rc1 Rxe4 Rc8+ Kh7 Rc7 Ng4 Rxf7 Kg6 Rf1 Ne5 Rc1 d3 h3 a5 Kf2 a4 Re1 Rf4+ Kg3 Kf5 bxa4 Rxa4 Rf1+ Ke6 Rf4 Ra3 Re4 Kd5 Kf4 Nc4 Rd1 g5+ Kf3 d2+ Re3 Rxe3+ Kf2 Ra3
+0-1
+
+[Event "uRyZJQdT"]
+[Variant "standard"]
+[Result "1-0"]
+[White "dmavro"]
+[Black "jsmithvestal"]
+[WhiteElo "1935"]
+[BlackElo "1877"]
+e4 Nf6 e5 Nd5 d4 d6 f4 Bf5 Nf3 Nc6 Bd3 Bxd3 Qxd3 dxe5 fxe5 e6 c3 Be7 O-O O-O Nbd2 a6 Ne4 h6 g4 f6 exf6 Nxf6 g5 Nxe4 Qxe4 Bxg5 Bxg5 hxg5 Qxe6+ Kh8 Qh3+ Kg8 Qe6+ Kh8 Qg4 Qe8 Nxg5 Qe3+ Kh1 Rxf1+ Rxf1 Qd3 Qh5+ Kg8 Qf7+ Kh8 Qf8+ Rxf8 Rxf8#
+1-0
+
+[Event "m0AwHism"]
+[Variant "standard"]
+[Result "1-0"]
+[White "sarahwynn"]
+[Black "tsatsa64"]
+[WhiteElo "1870"]
+[BlackElo "1842"]
+e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 h6 c3 d6 b4 Bb6 a4 a5 b5 Ne7 Nbd2 O-O Re1 Ng6 Nf1 Bg4 h3 Be6 Bxe6 fxe6 Ng3 Qe7 Rf1 Rf7 Qe2 Raf8 Be3 Bxe3 Qxe3 Nf4 d4 Ng6 c4 exd4 Nxd4 Ne5 Rac1 b6 f4 Ned7 Nc6 Qe8 e5 dxe5 fxe5 Nh7 Rxf7 Rxf7 Rd1 Rf8 Qe2 Ng5 Qg4 Nc5 h4 Nf7 Nh5
+1-0
+
+[Event "HzerC035"]
+[Variant "standard"]
+[Result "0-1"]
+[White "ekopp2000"]
+[Black "ssyx"]
+[WhiteElo "1742"]
+[BlackElo "1701"]
+d4 g6 Bf4 Bg7 e4 c6 Nc3 d5 e5 h5 h4 Bg4 Be2 Bxe2 Ngxe2 e6 Qd2 Nh6 O-O-O Nd7 Na4 b5 Nac3 Qa5 Nb1 Qxa2 Qb4 Bf8 Qc3 Qa6 Bg5 Rc8 Qe3 Nb6 Qb3 c5 Qa3 Na4 Bd2 cxd4 Bb4 Bxb4 Qxb4 Rc4 Qb3 Nc5 Qa3 d3 Qxa6 Rxc2#
+0-1
+
+[Event "t2usr3Hv"]
+[Variant "standard"]
+[Result "0-1"]
+[White "jumpjazz"]
+[Black "improvetoim"]
+[WhiteElo "1526"]
+[BlackElo "1681"]
+c4 c5 Nf3 Nc6 Nc3 g6 g3 Bg7 Bg2 e6 a3 Nge7 d3 O-O O-O d5 cxd5 exd5 Bd2 b6 Rb1 Bb7 b4 c4 dxc4 dxc4 Rc1 a6 b5 axb5 Nxb5 Ba6 a4 Bxb5 axb5 Na5 Bb4 Ra7 Qxd8 Rxd8 Bh3 Nd5 Rfd1 Bf6 e4 Nxb4 e5 Rxd1+ Rxd1 Bg7 Rd8+ Bf8 e6 c3 exf7+ Kxf7 Ne5+ Kg7 Rc8 c2 Nd3 Nb3 Nxb4 c1=R+ Rxc1 Nxc1 Nd5 Bc5 Nf4 Nb3 Ne6+ Kf6 Kg2 Nd4 Nxd4 Bxd4 Kf3 Ra2 Ke4 Bxf2 Kd5 Bc5 Bc8 Rxh2 g4 h5 gxh5 gxh5 Ke4 Rf2 Bh3 Kg5 Bd7 Kh4 Be8 Kg4 Bd7+ Kg3 Bf5 h4 Bd7 h3 Bxh3 Kxh3 Ke5 Rb2 Kd5 Rxb5 Kc4 Rb4+ Kc3 Kg3 Kd3 b5 Kc3 Kf3 Kd3 Rc4 Kd2 Bf8 Kd3 Bg7 Kd2 Rc3 Kd1 b4 Kd2 b3 Kd1 b2 Kd2 Bf6 Kd1 b1=Q+ Kd2 Qc2+ Ke1 Qc1#
+0-1
+
+[Event "d5oB4OqX"]
+[Variant "standard"]
+[Result "0-1"]
+[White "jsettle1"]
+[Black "knightofreyn"]
+[WhiteElo "1452"]
+[BlackElo "1601"]
+d4 Nf6 Bf4 d6 e3 Nbd7 Bd3 Nh5 Qxh5 g6 Qe2 e5 Bg3 Bg7 Nd2 O-O Ngf3 Re8 Bh4 Bf6 Bxf6 Qxf6 Ne4 Qg7 d5 f5 Neg5 e4 Nd4 exd3 cxd3 Nc5 O-O Qxd4 exd4 Rxe2 dxc5 Bd7 d4 Rae8 b4 dxc5 dxc5 R8e5 d6 cxd6 Nf3 R5e4 a3 dxc5 Rfe1 cxb4 axb4 Rxe1+ Nxe1 Rxb4 h3 a6 Nd3 Rd4 Nc5 Bc8 Re1 Kf7 Nb3 Rd3 Nc5 Rc3 Na4 Rc2 Nb6 f4 f3 g5 Nd5 Be6 Nb4 Rd2 Rc1 a5 Nc2 b5 Ne1 a4 Nc2 Bb3 Nb4 a3 Rc7+ Kg6 Rb7 Ba4 Rb6+ Kh5 Kf1 Kh4 Re6 Kg3
+0-1
+
+[Event "o7hx6vKa"]
+[Variant "standard"]
+[Result "1-0"]
+[White "k_a_l_e"]
+[Black "isavulpes"]
+[WhiteElo "2194"]
+[BlackElo "2274"]
+d4 Nf6 Nf3 d5 g3 c5 Bg2 cxd4 O-O Bd7 Nxd4 e5 Nb3 Be6 c4 Nc6 cxd5 Nxd5 N1d2 Be7 Ne4 Qb6 Ng5 Bxg5 Bxg5 h6 Bxd5 Bxd5 Qxd5 hxg5 Qc5 Qxc5 Nxc5 O-O-O e3 g4 Rad1 b6 Ne4 Kc7 f4 gxf3 Ng5 Rxd1 Rxd1 f6 Ne6+ Kc8 Nxg7 e4 Nf5 Rd8 Rxd8+ Kxd8 Nd6 f5 Nxf5 Kd7 g4 Ne5 h3 Ke6 Ng3 Kd5 b3 a5 a4 Kc5 Nxe4+ Kb4 g5 Kxb3 h4 Kxa4 h5 b5 g6 Ng4 g7 Nh6 Nf6 b4 Ng4 f2+ Kg2 Ng8 h6 b3 h7 b2 hxg8=Q f1=Q+ Kxf1 b1=Q+ Kg2 Qe4+ Kg3 Qh1 Qa2+ Kb5 g8=Q Qd5
+1-0
+
+[Event "aqowGeyM"]
+[Variant "standard"]
+[Result "1-0"]
+[White "k-night-moves"]
+[Black "mathijshuis"]
+[WhiteElo "2087"]
+[BlackElo "2036"]
+d4 Nf6 c4 c5 d5 e6 Nc3 exd5 cxd5 d6 e4 g6 Bd3 Bg7 Nge2 O-O O-O Re8 Ng3 a6 a4 Nbd7 f4 h5 Qf3 Ng4 h3 Nh6 Kh1 f6 Bd2 Nf7 Rae1 Nf8 Nd1 Bd7 b3 b5 axb5 Bxb5 Nc3 Qb6 Na4 Qb7 Rb1 Rab8 Nb2 Bxd3 Nxd3 Nd7 Bc3 f5 Bxg7 fxe4 Nxe4 Kxg7 Ng5 Nxg5 fxg5 Rf8 Nf4 Rf5 Qc3+ Ne5 Nxh5+ Kh7 Rxf5 gxf5 Nf6+ Kg6 Qg3 Qf7 Qh4
+1-0
+
+[Event "zIxyh1TI"]
+[Variant "standard"]
+[Result "0-1"]
+[White "fakeoo"]
+[Black "vicpez"]
+[WhiteElo "1961"]
+[BlackElo "2018"]
+e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Be7 c3 Nxe4 Re1 Nc5 Nxe5 Nxe5 Rxe5 O-O Bc2 d6 Re1 Bg5 d4 Ne6 Nd2 Re8 Nf3 Bxc1 Rxc1 Nf8 Qd2 Bg4 Qf4 Qd7 h3 Bh5 Ng5 Bg6 Bxg6 Nxg6 Qf3 d5 Qd3 f6 Nf3 Qb5 Qxb5 axb5 a3 Kf7 g3 Ne7 Rc2 Nf5 Rce2 Rxe2 Rxe2 Nd6 Nd2 Re8 Rxe8 Kxe8 f3 Nc4 Nxc4 bxc4 Kf2 Kd7 Ke3 Kc6 Kd2 Kb5 h4 Ka4 Kc2 g6 g4 f5 h5 fxg4 fxg4 gxh5 gxh5 h6 Kc1 Kb3 Kb1 b6 Kc1 c5 dxc5 bxc5 Kb1 d4 cxd4 cxd4 Kc1 d3 Kd2 Kxb2 a4 c3+ Kxd3 c2 a5 c1=Q
+0-1
+
+[Event "h3Xr7ulU"]
+[Variant "standard"]
+[Result "0-1"]
+[White "chewbacca_defense"]
+[Black "seb32"]
+[WhiteElo "1972"]
+[BlackElo "1878"]
+d4 d5 c4 c6 Nc3 Nf6 e3 dxc4 Bxc4 Bf5 Qb3 e6 Qxb7 Nbd7 Qxc6 Bb4 Qa4 Bxc3+ bxc3 O-O Ne2 Nb6 Qb3 Rc8 Ba6 Rc6 Ba3 Nbd5 Bxf8 Rxa6 Bc5 Ne4 c4 Qa5+ Kf1 Nd2+ Kg1 Nxb3 Rb1 Bxb1
+0-1
+
+[Event "SYrf5PHf"]
+[Variant "standard"]
+[Result "0-1"]
+[White "notakebackshmm"]
+[Black "lupo_jones"]
+[WhiteElo "1845"]
+[BlackElo "1819"]
+e4 d5 exd5 Nf6 Bb5+ Nbd7 Nf3 Nxd5 d4 e6 O-O Be7 Bd3 Bf6 a3 b6 c4 Ne7 Nc3 O-O Ne4 Bb7 Nxf6+ Nxf6 Bg5 Ng6 Bc2 h6 Bxg6 fxg6 Be3 Nh5 Ne5 Qe8 Qg4 Rf6 Qh4 g5 Qg4 Nf4 Bxf4 Rxf4 Qg3 Rd8 Rad1 Qh5 Qe3 Re4 Qc3 Rxe5
+0-1
+
+[Event "kfhhL4Ad"]
+[Variant "standard"]
+[Result "1/2-1/2"]
+[White "pinbsg21"]
+[Black "mqll"]
+[WhiteElo "1667"]
+[BlackElo "1643"]
+e4 c5 Bc4 e6 Nc3 Nc6 Nf3 Nf6 d3 a6 d4 cxd4 Nxd4 Be7 Nxc6 bxc6 Bg5 d5 exd5 cxd5 Be2 Bb7 Bf3 O-O O-O Rc8 a3 Qb6 Na4 Qc6 Nc3 Rfe8 Re1 Qd6 Be3 Nd7 Qd2 Bf6 Bf4 Qc5 Bg5 Bxc3 bxc3 Qxc3 Qxc3 Rxc3 Ra2 Rec8 Rb1 Ba8 Be2 h6 Be3 Rxc2 Rxc2 Rxc2 Bxa6 Bc6 Rc1 Rxc1+ Bxc1 Nc5 Be2 Kf8 Be3 Na4 f4 Ke7 Bd4 f6 g4 Kd6 Ba7 Nc3 Bb8+ Kd7 Kf2 Nxe2 Kxe2 Ke7 h4 g5 hxg5 hxg5 fxg5 fxg5 Be5 Kf7 Ke3 Kg6 Kd4 Bb5 Ke3
+1/2-1/2
+
+[Event "TkojlEZ7"]
+[Variant "standard"]
+[Result "1-0"]
+[White "lechuckforpresident"]
+[Black "gigantaure"]
+[WhiteElo "1315"]
+[BlackElo "1566"]
+e4 d5 exd5 Qxd5 Nc3 Qd8 d4 Nf6 Nf3 Bg4 h3 Bxf3 Qxf3 c6 Be3 e6 Bd3 Nbd7 O-O-O Bb4 Ne2 a5 Qg3 g6 Bh6 Bf8 Bxf8 Nxf8 c4 N8d7 Nf4 Nb6 Be2 Qe7 Rhe1 a4 a3 Rc8 Kb1 e5 dxe5 Ne4 Qf3 Qxe5 Bd3 Nd2+ Kc2 Nxf3 gxf3 Qxe1 Rxe1+ Kf8 Kc3 Re8 Rd1 Kg7 Be4 Rd8 Rg1 Kf6 Nd3 Nd7 Kb4 Ne5 Nc5 b6 Nxa4 Nd3+ Bxd3 Rxd3 Nxb6 Rxf3 a4 Rxf2 b3 Ke6 Ra1 Rb8 Kc5 Rf5+ Kxc6 Rh5 Nd5 Rxb3 Nf4+ Kf6 Nxh5+ gxh5 a5 Rc3 c5 Ke7 a6 Rf3 a7 Rf6+ Kb7 Rf5 Rc1 Kf6 a8=Q Kg5 Qc8 f6 Qxf5+ Kxf5 c6 h4 c7 Kg5 c8=Q h6 Rg1+ Kf4 Qg4+ Ke5 Qxh4 f5 Qxh6 f4 Qh5+ Ke4 Rf1 Ke3 Qf3+ Kd4 Qxf4+ Kc5 Qd2 Kb5 Rc1 Ka4 Qb2 Ka5 Ra1#
+1-0
+
+[Event "Sm9IpmXM"]
+[Variant "standard"]
+[Result "1/2-1/2"]
+[White "erinyu"]
+[Black "god666"]
+[WhiteElo "2332"]
+[BlackElo "2337"]
+e4 c5 Nc3 e6 Nf3 a6 g3 Nc6 Bg2 g6 O-O Bg7 d3 Nge7 Re1 d6 h4 O-O h5 h6 hxg6 fxg6 Be3 Kh7 Qd2 Nd4 Bxd4 cxd4 Ne2 Nc6 c3 dxc3 bxc3 e5 Nh2 Be6 Reb1 Rf7 Nf1 Qf6 f3 Raf8 Rb6 h5 Qb2 Bc8 Ne3 h4 Nd5 Qg5 Kf2 h3 Bh1 Bg4 f4 exf4 Nexf4 Rxf4+ Nxf4 Qc5+ Kf1 Bxc3 Rxb7+ Kh6 Rc1 Bxb2 Rxc5 dxc5 Rxb2 g5 Rb6 Bd7 e5 gxf4 gxf4 Rxf4+ Kg1 h2+ Kxh2 Rh4+ Kg1 Rxh1+ Kxh1 Kg5 Rxa6 Nxe5 Rd6 Bb5 d4 cxd4 Kg2 d3 Kf2 Kf4 Rd4+ Kf5 a4 Ba6 Ke3 Ke6 Rh4
+1/2-1/2
+
+[Event "v2gd6MlL"]
+[Variant "standard"]
+[Result "0-1"]
+[White "artian12"]
+[Black "mysonnevercallme"]
+[WhiteElo "2117"]
+[BlackElo "2037"]
+e4 e5 Nf3 Nc6 Bb5 a6 Ba4 f5 d3 fxe4 dxe4 Nf6 Bg5 h6 Bh4 g5 Bg3 Nxe4 Bxe5 Nxe5 Nxe5 Qf6 Qh5+ Ke7 Ng6+ Kd8 O-O Rg8 Nxf8 Rxf8 Qe2 Qxb2 Nd2 Nc3 Qc4 b5 Qb3 Nxa4 Qd5 Rb8 Rae1 Bb7 Qd3 Qf6 Nb3 Qc6 f3 g4 Nd4 Qd5 Ne6+ dxe6 Qh7 Qc5+ Kh1 gxf3 Rd1+ Bd5 gxf3 Kc8 Qxh6 Rxf3
+0-1
+
+[Event "jEYDUzIW"]
+[Variant "standard"]
+[Result "1/2-1/2"]
+[White "lion88"]
+[Black "darkbishop21"]
+[WhiteElo "1944"]
+[BlackElo "1964"]
+e4 e6 d4 d5 Nc3 Bb4 exd5 exd5 Bd2 Nf6 Nf3 O-O Be2 c5 a3 cxd4 Nxd4 Bc5 Be3 Qe8 O-O Nc6 Re1 a6 Qd2 Ba7 h3 Be6 Nxe6 fxe6 Bxa7 Rxa7 Bf3 Qd7 Rad1 b5 Ne2 Ne5 Nd4 Nxf3+ Nxf3 Qc8 Qe3 Re7 c3 Ne4 Re2 Ref7 Ng5 Nxg5 Qxg5 Rf6 Rde1 Rg6 Qe7 Rff6 Re5 h6 h4 d4 cxd4 Qc6 d5 exd5 Qe8+ Qxe8 Rxe8+ Kh7 R8e5 Rd6 Rd1 d4 Re4 d3 Re3 Rg4 Rexd3 Rxd3 Rxd3 Rxh4 Rd6 Ra4 Kf1 h5 Ke2 g6 g3 Kh6 f4 h4 gxh4 Rxf4 Rxa6 Rxh4 Kf3 Rc4 Rb6 Rc5 Kg4 Rc4+ Kg3 Rc5 Rb8 Kg5 Rb6 Rd5 b4 Rd3+ Kg2 Rxa3 Rxb5+ Kg4 Rb8 Ra2+ Kg1 Kg3 Rf8 g5 b5 Rb2 Rf1 Rxb5 Ra1 Rb3 Kf1 g4 Kg1 Kh3 Kh1 g3 Kg1 Kg4 Ra8 Rb5 Kg2 Rb2+ Kg1 Rb5 Kg2 Rb2+ Kg1 Rb1+ Kg2 Rb5 Ra4+ Kf5 Kxg3 Rb3+ Kf2 Rh3 Ra5+ Ke4 Ra4+ Kd5 Kg2 Rb3 Kf2 Kc5 Kg2 Rb4 Rxb4 Kxb4
+1/2-1/2
+
+[Event "cQi5fwWU"]
+[Variant "standard"]
+[Result "1-0"]
+[White "cannonbait"]
+[Black "adande1"]
+[WhiteElo "1904"]
+[BlackElo "1870"]
+d4 Nf6 c4 e6 Nc3 Bb4 Qc2 d5 cxd5 exd5 Bg5 h6 Bxf6 Qxf6 a3 Bxc3+ Qxc3 Nc6 e3 O-O Bb5 a6 Bxc6 Qxc6 Qxc6 bxc6 Rc1 Bd7 Nf3 f6 O-O Rab8 b4 Rb5 Ne1 a5 Nd3 axb4 Nxb4 Ra8 Rc3 Rba5 Ra1 R8a7 Nd3 Kf7 h3 Ke7 g4 Kd6 Kg2 g5 Nc5 Bc8 Rb3 Ba6 Rb8 Bb5 Nb7+ Rxb7 Rxb7 c5 dxc5+ Kxc5 Rxc7+ Kd6 Rh7 Ke5 Rxh6 f5 gxf5 Kxf5 Kg3 Be2 h4 Ra4 hxg5 Kxg5 Rh3 d4 Rh4 Ra8 Rxd4 Rf8 f4+ Kf6 a4 Rg8+ Kf2 Bg4 Rg1 Kf5 a5 Rg6 Rd5+ Ke4 Re5+ Kd3 Rg5 Rxg5 fxg5 Be6 g6 Kc4 g7 Bg8 Rb1 Kc5 a6 Kd6 a7 Bd5 Rb8 Ke7 g8=Q Bxg8 Rxg8
+1-0
+
+[Event "kb4HaPi6"]
+[Variant "standard"]
+[Result "0-1"]
+[White "glbert"]
+[Black "jitre"]
+[WhiteElo "1846"]
+[BlackElo "1900"]
+e4 e5 f4 Nf6 fxe5 Nxe4 Nf3 Be7 d4 d5 exd6 Bh4+ g3 Bf6 Qe2 O-O Qxe4 Re8 Ne5 cxd6 Bd3 g6 O-O dxe5 Qf3 e4 Qxf6 Qxf6 Rxf6 exd3 cxd3 Nc6 d5 Nb4 Nc3 Bh3 Bh6 Nxd3 b3 Ne5 Rf4 f5 Ne2 Kf7 Nd4 Ng4 Bg5 h6 Bxh6 Nxh6 Rh4 Re4 Rxh3 Rxd4 Rxh6 Kg7 Rh4 Rxh4 gxh4 Rd8 Rc1 Rd7 d6 Kf6 Rc7 Ke6 Rxd7 Kxd7 Kf2 Kxd6 Ke3 Ke5 h3 b5 b4 a6 a3 f4+ Kf3 Kf5 Kf2 Ke4 Ke2 f3+ Kf2 Kf4 h5 gxh5
+0-1
+
+[Event "drtZpxLf"]
+[Variant "standard"]
+[Result "1/2-1/2"]
+[White "jswanberg"]
+[Black "slamjam"]
+[WhiteElo "1811"]
+[BlackElo "1774"]
+d4 d5 c4 e6 Nc3 c5 Nf3 Nf6 Bg5 Nc6 e3 cxd4 Nxd4 Be7 Bd3 O-O Qc2 h6 Bxf6 Bxf6 Nxc6 bxc6 O-O e5 Rfd1 Be6 Rd2 Qe7 cxd5 cxd5 Nxd5 Bxd5 Bh7+ Kh8 Rxd5 g6 Bxg6 fxg6 Qxg6 Qg7 Qxg7+ Bxg7 e4 Rfd8 Rad1 Rxd5 Rxd5 Rc8 f3 Rc1+ Kf2 Rc2+ Kg3 Rxb2 Ra5 Rb7 f4 exf4+ Kxf4 Rf7+ Rf5 Rxf5+ exf5 Kg8 g4 Kf7 h4 Bf6 g5 hxg5+ hxg5 Bc3 Kg4 Be5 Kh5 Kg7 Kg4 a5 a4 Bc3 Kh5 Be5 Kg4 Bc3 Kh5 Be5
+1/2-1/2
+
+[Event "T9ZMTbxN"]
+[Variant "standard"]
+[Result "1/2-1/2"]
+[White "leebster"]
+[Black "xvaria"]
+[WhiteElo "1648"]
+[BlackElo "1638"]
+d4 Nf6 Bf4 e6 e3 c5 c3 Be7 Nf3 Nc6 h3 d5 Bd3 O-O O-O Bd6 Bg5 Re8 Qc2 h6 Bh4 Be7 Nbd2 cxd4 exd4 Nh5 Bxe7 Qxe7 Rfe1 a6 Qd1 Nf6 Qe2 Nd7 Ne5 Ncxe5 dxe5 b5 Qg4 Rb8 b4 f5 Qh5 Qf7 Qxf7+ Kxf7 a4 bxa4 Rxa4 Nb6 Ra2 Re7 Nf3 Rc7 Ra3 Nc4 Bxc4 Rxc4 Nd4 Ke7 f4 Kf7 Re3 g5 g3 Kg6 h4 g4 Kf2 Ra8 Nb5 Bd7 Nd6 Rc7 b5 a5 b6 Rc5 Re2 Bc6 Rb2 Rb8 b7 Kg7 Ke3 d4+ cxd4 Rc1 Rxa5 Re1+ Kf2 Rh1 Ke3 Re1+ Kd2 Rf1 Ra3 Rf2+ Kc3 Rf3+ Kb4 Rxa3 Kxa3 Kf8 Rb6 Bd5 Kb4 Ke7 Kc5 Kd7 Nf7 h5 Nd6 Kc7 Kb5 Bxb7 Rxb7+ Rxb7+ Nxb7 Kxb7 Kc5 Kc7 d5 Kd7 d6 Kd8 Kb6 Kd7 Kb7 Kd8 Kc6 Kc8 d7+ Kd8 Kd6
+1/2-1/2
+
+[Event "AgZc9DqM"]
+[Variant "standard"]
+[Result "1/2-1/2"]
+[White "timothyha"]
+[Black "mlakolar"]
+[WhiteElo "2156"]
+[BlackElo "2176"]
+e4 e6 d4 d5 Nc3 dxe4 Nxe4 Bd7 Nf3 Bc6 Bd3 Nd7 c3 Ngf6 Nxf6+ Nxf6 O-O Be7 Qe2 Bxf3 Qxf3 c6 Be3 O-O Rad1 Qc7 Qh3 Rfd8 Bg5 g6 Qf3 Nd5 Bh6 Bf8 Bc1 Rd7 h4 Rad8 h5 e5 hxg6 hxg6 dxe5 Qxe5 Rde1 Qc7 Bc2 Re7 g3 Rde8 Rxe7 Qxe7 Kg2 Qe2 Qxe2 Rxe2 Bd3 Re8 Kf3 Kg7 c4 Nb4 Bb1 c5 Bd2 Bd6 Bxb4 cxb4 Rd1 Bc5 Bc2 Re6 Rd2 Re7 Be4 b6 Bd5 Re5 Be4 Re7 Bd5 Re5 Be4 Re7
+1/2-1/2
+
+[Event "XTnU7B0A"]
+[Variant "standard"]
+[Result "0-1"]
+[White "kerfufflecopter"]
+[Black "th3romanticwarrior"]
+[WhiteElo "2118"]
+[BlackElo "2079"]
+e4 e5 Nf3 Nc6 d4 exd4 Bc4 Nf6 e5 Ne4 O-O Be7 Nxd4 Nxe5 Bb3 d6 a3 O-O Nd2 Nxd2 Bxd2 Bg4 f3 Bd7 f4 Nc6 Ne2 Bf6 c3 Be6 Bc2 Bc4 Rf3 Re8 Be3 g6 Ng3 d5 Bd2 d4 Bd3 dxc3 Bxc3 Bxc3 bxc3 Bxd3 Rxd3 Qe7 Qg4 Rad8 Nf5 Qc5+ Nd4 Nxd4 cxd4 Rxd4
+0-1
+
+[Event "BKTvnEl5"]
+[Variant "standard"]
+[Result "0-1"]
+[White "scarff"]
+[Black "ringelnatz"]
+[WhiteElo "1984"]
+[BlackElo "2065"]
+c4 e5 Nc3 Nf6 Nf3 Nc6 g3 Bc5 Bg2 d6 Na4 Bb6 Nxb6 axb6 O-O O-O d4 e4 Ng5 Bf5 f3 exf3 Nxf3 Qd7 Nh4 Bh3 Rxf6 Bxg2 Kxg2 gxf6 Bh6 Rfe8 Qd3 Qg4 d5 Qxe2+ Qxe2 Rxe2+ Kf3 Nd4+ Kg4 Rae8 Rf1 f5+ Nxf5 Nxf5 Rxf5 R8e5 Rf6 Rxh2 Bf4 Ree2 b4 Rc2 c5 bxc5 b5 Kg7 Kf5 Rh5+ Bg5 Rf2+ Kg4 Rxg5+ Kxg5 Rxf6
+0-1
+
+[Event "dKPTXycy"]
+[Variant "standard"]
+[Result "1/2-1/2"]
+[White "stclion"]
+[Black "mekumcu"]
+[WhiteElo "1931"]
+[BlackElo "1918"]
+Nf3 Nf6 d4 e6 e3 d5 Nbd2 c5 c3 Nc6 a3 Bd6 b4 c4 h3 Bd7 Qc2 b5 Bb2 a5 Be2 a4 e4 dxe4 Nxe4 Be7 O-O h6 Bc1 Nd5 Bd2 O-O Rfd1 Qc7 g3 Rad8 Kg2 Bc8 Qc1 Kh7 Qb1 Kg8 Qc1 Kh7 Qb1 Kh8 Qc1 Kh7
+1/2-1/2
+
+[Event "F45qY47u"]
+[Variant "standard"]
+[Result "1-0"]
+[White "eigentor"]
+[Black "emkatt"]
+[WhiteElo "1863"]
+[BlackElo "1832"]
+e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 f3 Nc6 Be3 e5 Nb3 Be6 Nd5 Bxd5 exd5 Ne7 c4 Nf5 Bf2 Nd7 Bd3 Qg5 Bxf5 Qxf5 O-O Be7 Rc1 b6 Nd2 h5 Qc2 Qxc2 Rxc2 O-O g4 hxg4 fxg4 f5 gxf5 Rxf5 Bg3 Raf8 Rxf5 Rxf5 Ne4 Nc5 Rf2 Rxf2 Nxf2 Bg5 Kf1 Be3 Ng4 Bc1 b3 Nd3 Bf2 Nxf2 Nxf2 Ba3 Kg2 Kf7 Kf3 Bc5 Ne4 Ke7 Kg4 Ba3 Kf5 b5 Kg6 Kf8 cxb5 axb5 Kf5 Ke7 Nc3 b4 Ne4 Bc1 h4 Be3 Kg6 Bh6 h5 Kd7 Kf7 Kd8 Ke6 Bf4 Kxd6 Ke8 Ke6
+1-0
+
+[Event "2a4a8gzq"]
+[Variant "standard"]
+[Result "0-1"]
+[White "jbeast2882"]
+[Black "izzie26"]
+[WhiteElo "1778"]
+[BlackElo "1808"]
+d4 d5 c4 c6 Nc3 Nf6 Nf3 e6 Bg5 Nbd7 e3 Qa5 cxd5 exd5 Bd3 Ne4 Bxe4 dxe4 Nd2 Qxg5 O-O Nf6 Ndxe4 Nxe4 Nxe4 Qg6 Ng3 Bd6 Rc1 O-O Qb3 Qe6 Qa4 Bd7 Qa5 b5 b3 Rfc8 Qd2 a5 Ne2 Qh6 h3 Qg6 g4 Qh6 Kg2 Be6 Nf4 Bxf4 exf4 Bd5+ Kg3 Re8 b4 axb4 Qxb4 Rxa2 Qd6 Qxd6
+0-1
+
+[Event "Eqn4o2p8"]
+[Variant "standard"]
+[Result "0-1"]
+[White "t_taylor"]
+[Black "adrienb96"]
+[WhiteElo "1684"]
+[BlackElo "1706"]
+c4 Nf6 g3 g6 Bg2 Bg7 Nc3 Nc6 Nf3 d5 cxd5 Nxd5 O-O O-O d4 Nxc3 bxc3 Bg4 h3 Be6 Bf4 Bd5 Re1 f5 e4 fxe4 Ng5 e5 dxe5 Nxe5 Nxe4 Bc6 Nc5 Qxd1 Raxd1 Nf3+ Bxf3 Bxf3 Rd3 Bc6 Bxc7 Rac8 Bf4 Bb5 Rd5 Bc4 Rd7 Rxc5 Bd6 Rcc8 Ree7 Rf7 Rxb7 Rxe7 Bxe7 a6 Bb4 Bxa2 Ra7 Bc4 Ba5 Bb5 Rc7 Rxc7 Bxc7 Bxc3 Bd6 a5 Kg2 Bb4 Be5 a4 Kf3 a3 Ke3 Kf7 f4 Ke6 g4 Kd5 f5 Kxe5 fxg6 hxg6 h4 a2 h5 gxh5 gxh5 a1=Q h6 Qd4+ Kf3 Bc6+ Ke2 Qd2+ Kf1 Qg2#
+0-1
+
+[Event "rKlWzu1Z"]
+[Variant "standard"]
+[Result "0-1"]
+[White "frogfractions"]
+[Black "caodanny"]
+[WhiteElo "1455"]
+[BlackElo "1430"]
+e4 c5 Nf3 e6 d4 cxd4 Nxd4 Nf6 Nc3 Nc6 Nxc6 bxc6 e5 Nd5 Ne4 Ba6 Bxa6 Qa5+ Bd2 Qxa6 b3 Be7 c4 f5 exf6 Nxf6 Nxf6+ Bxf6 Rc1 O-O O-O Qxa2 Bc3 Bxc3 Rxc3 Rf7 Rf3 d5 Rxf7 Kxf7 Qf3+ Kg8 cxd5 Rf8 Qe4 Qxb3 Qxe6+ Rf7 Qxc6 Qb7 Qxb7 Rxb7 d6 Kf7 Rd1 Ke6 f4 g6 g4 Rd7 Kg2 Rxd6 Rxd6+ Kxd6 Kh3 a5 Kh4 a4 f5 gxf5 gxf5 Ke7 Kg5 Kf7 Kh6 a3 Kxh7 a2 Kh6 a1=Q Kh5 Qf6 h4 Qxf5+ Kh6 Qg6#
+0-1
+
+[Event "7A4xAo5v"]
+[Variant "standard"]
+[Result "1-0"]
+[White "christopherchabris"]
+[Black "firstnamelastname"]
+[WhiteElo "2266"]
+[BlackElo "2186"]
+e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 Qe2 Qe7 Nbd2 Bg4 h3 Bh5 a3 a6 b4 Ba7 Nc4 Nd7 Ne3 f6 Nf5 Qf7 Be3 Bxe3 Qxe3 O-O g4 Bg6 N3h4 Rfe8 O-O Nf8 f4 Qd7 fxe5 Rxe5 Kh2 h6 Rf2 a5 Raf1 axb4 axb4 Bh7 Nf3 Ree8 Rg1 Ne6 Kh1 Ra4 Qd2 c5 bxc5 Nxc5 Rfg2 Ne6 h4 Rf8 Nxh6+ gxh6 Qxh6 Qg7 Qe3 Bg6 h5 Be8 g5 f5 exf5 Nd4 f6 Qd7 Nxd4 Rxd4 Qg3 Bxh5 Rh2 Qc6+ Rgg2 Bf3 Qh3 Bxg2+ Rxg2 Rf4 g6 Rf1+ Kh2 Qd6+ Rg3 R8xf6 Qh7+ Kf8 g7+ Ke8 g8=Q+ Rf8 Qhg6+
+1-0
+
+[Event "OLF20pRK"]
+[Variant "standard"]
+[Result "1-0"]
+[White "mcastellani18"]
+[Black "chriswmac33"]
+[WhiteElo "2094"]
+[BlackElo "2042"]
+e4 c6 d4 d5 Nc3 dxe4 Nxe4 Bf5 Ng3 Bg6 Nf3 Nd7 c3 e6 Bf4 Ngf6 Be2 Qb6 Qb3 Nd5 Be3 Bd6 O-O Bxg3 hxg3 Nxe3 fxe3 Qc7 g4 Be4 Ng5 Nf6 Rxf6 gxf6 Nxe4 O-O-O Nxf6 Qg3 c4 h5 gxh5 Qg7 Rf1 Rh6 Ne4 Rg8 Bf3 f5 Nd6+ Kc7 Qxb7+ Kxd6 c5#
+1-0
+
+[Event "jdTKV3yh"]
+[Variant "standard"]
+[Result "0-1"]
+[White "yoitsyeboicat"]
+[Black "brundd"]
+[WhiteElo "1998"]
+[BlackElo "1981"]
+e4 c6 d4 d5 Nc3 dxe4 Nxe4 Nd7 Nf3 Ngf6 Ng3 e6 Be2 c5 c3 cxd4 Nxd4 a6 O-O Be7 Be3 O-O Qc2 Nd5 Bd3 N7f6 Bd2 Qc7 Ne4 Nxe4 Bxe4 Nf6 Bd3 b5 Bg5 Ng4 Nf3 Bxg5 h3 Ne3 fxe3 Bxe3+ Kh1 g6 Rae1 Bh6 h4 Bb7 h5 Qg3 hxg6 hxg6 Be4 Bxe4 Qxe4 Qf4 Qb7 Bg7 Nh2 Qd2 Rb1 Qd8 Rbd1 Qb8 Qe7 Qe8 Qg5 Rd8 Rde1 Rd5 Qg3 Rh5 Kg1 Qb8 Qxb8 Rxb8 Nf3 b4 cxb4 Bxb2 Re4 Rhb5 a3 Bxa3 Ne5 R8b7 Ng4 Rxb4 Nf6+ Kh8 Re3 Rb3 Re4 Bc5+ Kh1 R3b4 Re5 Rh4#
+0-1
+
+[Event "f39LpeTn"]
+[Variant "standard"]
+[Result "1-0"]
+[White "aryabrah"]
+[Black "sochessgoes"]
+[WhiteElo "1942"]
+[BlackElo "1932"]
+e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 g6 Be3 Nbd7 f3 Bg7 Qd2 a6 g4 b5 h4 Bb7 h5 Rc8 O-O-O b4 Nce2 Nxe4 fxe4 Bxe4 Ng3 Bxh1 Nxh1 Qa5 Kb1 Nc5 Bg2 Na4 Nb3 Qc7 Bd4 Bxd4 Nxd4 Nc3+ bxc3 bxc3 Qf2 Rb8+ Nb3 a5 a4 O-O Bd5 e6 h6 exd5 Qf6 Rxb3+ cxb3 c2+ Kc1
+1-0
+
+[Event "ISWUNGc3"]
+[Variant "standard"]
+[Result "0-1"]
+[White "pulsar512b"]
+[Black "cvillian"]
+[WhiteElo "1835"]
+[BlackElo "1877"]
+d4 e6 e4 d5 Nc3 Nf6 e5 Nfd7 f4 c5 Be3 Nc6 Nf3 cxd4 Nxd4 Bc5 Nxc6 bxc6 Bxc5 Nxc5 Qg4 O-O b4 Nd7 Bd3 Qb6 b5 Qe3+ Kd1 Qd4 Kd2 Nxe5 Qg3 Nxd3 cxd3 cxb5 Rab1 a6 a3 Bb7 Rb4 Qf6 d4 Rac8 a4 Bc6 axb5 Bxb5 Nxb5 axb5 Qe3 Rc4 Rhb1 Qg6 g3 Qc2+ Ke1 Qxh2 Rxb5 Rc2 Kd1 Rg2
+0-1
+
+[Event "pZCtnXtu"]
+[Variant "standard"]
+[Result "0-1"]
+[White "patalanoc"]
+[Black "mightyalex"]
+[WhiteElo "1796"]
+[BlackElo "1770"]
+e4 c6 d4 e6 Nc3 d5 e5 c5 Nf3 cxd4 Nxd4 Bb4 Bd2 a6 a3 Bc5 Be3 Bxd4 Bxd4 Nc6 Qd2 Nh6 f4 Nf5 Ne2 h5 O-O-O Qc7 Bc3 Bd7 Nd4 Nfxd4 Bxd4 Rc8 c3 Na5 Qc2 b5 b4 Nc4 Bxc4 Qxc4 Rd2 Ke7 Bc5+ Rxc5 bxc5 Qxf4 Qd3 Qxe5 Qd4 Qg5 Re1 Bc6 Qe5 Qxe5 Rxe5 f6 Re3 h4 Kb2 Rh5 Kb3 a5 g4 Rg5 h3 e5 Rf2 Bd7 Rd2 Be6 a4 d4+
+0-1
+
+[Event "7zjzlqU3"]
+[Variant "standard"]
+[Result "0-1"]
+[White "gerdie"]
+[Black "ruip"]
+[WhiteElo "1560"]
+[BlackElo "1674"]
+e4 e5 Nf3 Nc6 Bc4 Bc5 b4 Bxb4 c3 Ba5 d4 d6 d5 Nce7 Qa4+ c6 O-O b5 Bxb5 cxb5 Qxb5+ Bd7 Qd3 Nf6 Ba3 Qc7 c4 O-O Nxe5 Bb6 Qg3 Nxe4 Qh4 Bf5 Nf3 Ng6 Qh5 Qd7 Nbd2 Bg4 Qxg4 Qxg4 Nxe4 Qxe4 Bxd6 Rfd8 c5 Qxd5 cxb6 Rxd6
+0-1
+
+[Event "bl8BWT05"]
+[Variant "standard"]
+[Result "1-0"]
+[White "dimitrishatov"]
+[Black "janetheus"]
+[WhiteElo "1452"]
+[BlackElo "1528"]
+e4 c6 d4 d5 e5 Bf5 Nf3 e6 Bd3 Bxd3 Qxd3 Ne7 c4 Nd7 Nc3 Nb6 b3 Ng6 O-O Bb4 Re1 O-O Bg5 Qc7 h4 dxc4 bxc4 Na4 Nxa4 Bxe1 Rxe1 Qa5 Nc3 h6 h5 hxg5 hxg6 f6 exf6 gxf6 Rxe6 Qc7 Qf5 Kg7 Ne4 Qb6 Rxf6 Qb1+ Kh2 Rh8+ Kg3 Qxa2 Rf7+ Kh6 Qh3+ Kxg6 Qf5+ Kh6 Qxg5#
+1-0
+
+[Event "tHQ0B40X"]
+[Variant "standard"]
+[Result "1/2-1/2"]
+[White "svendra"]
+[Black "mronemore"]
+[WhiteElo "2140"]
+[BlackElo "2167"]
+e4 e5 Nf3 Nc6 Bb5 a6 Bxc6 dxc6 Nc3 Bd6 d4 Qe7 Nxe5 Bxe5 dxe5 Qxe5 Qf3 Nf6 Bf4 Qe7 h3 Be6 O-O O-O Bg5 h6 Bxf6 Qxf6 Qxf6 gxf6 Rfe1 Rad8 Rad1 Rd6 Rxd6 cxd6 Rd1 Rd8 a3 Kf8 Ne2 Ke7 Nf4 Rg8 Rd2 Rg5 Nxe6 fxe6 f4
+1/2-1/2
+
+[Event "8JKO4czl"]
+[Variant "standard"]
+[Result "0-1"]
+[White "cephandrius"]
+[Black "moiron"]
+[WhiteElo "2027"]
+[BlackElo "2036"]
+d4 Nf6 Nf3 e6 g3 c5 Bg2 cxd4 Nxd4 Bc5 Nc3 O-O Nb3 Bb6 Na4 d5 Nxb6 Qxb6 Be3 Qc7 h3 Nc6 Nc5 d4 Bg5 Qa5+ Qd2 Qxc5 O-O-O Qa5 Qxa5 Nxa5 b4 Nc6 b5 Ne7 Rxd4 e5 Rd2 a6 Rhd1 axb5 Kb2 Be6 a3 Nc6 c3 Na5 Rd3 Nc4+ Kc2 Rxa3 Rb1 Bf5 Rxb5 Bxd3+ Kxd3 Nd6 Rxe5 h6 Bxf6 gxf6 Rd5 Rd8 Bf3 b6 Kc2 Ra5 Rd4 Kf8 Rh4 Nf5 Rf4 Rc5 Kb3 Rd6 Kb4 Ne7 c4 Nc6+ Bxc6 Rdxc6 g4 Rd6 e3 Ke7 Re4+ Re5 Rf4 Rd1 h4 Ke6 Kc3 Rh1 h5 Rd1 Kc2 Rd8 Kb3 f5 Rd4 Rxd4 exd4 Re2 gxf5+ Kxf5 Kb4 Rb2+ Ka4 Ke4 d5 Ke5 f3 Kd6 Ka3 Rb1 Ka4 Kc5 d6 Kxd6 f4 Kc5 Ka3 Kxc4 Ka2 Rb5 f5 Kc3 f6 Rxh5 Kb1 Ra5 Kc1 Ra1#
+0-1
+
+[Event "9wPACJhW"]
+[Variant "standard"]
+[Result "1/2-1/2"]
+[White "thoughtless2"]
+[Black "landmoose"]
+[WhiteElo "2011"]
+[BlackElo "2031"]
+e4 e6 d4 d5 Nc3 Nf6 Bg5 dxe4 Nxe4 Be7 Bd3 Bd7 Nf3 Bc6 Qe2 Nbd7 O-O Bxe4 Bxe4 Nxe4 Bxe7 Qxe7 Qxe4 c6 c4 Rd8 Rfe1 O-O Rad1 Nf6 Qe3 Rd6 h3 b6 Ne5 Nd7 Nf3 Nf6 Ne5
+1/2-1/2
+
+[Event "mTNN8JAn"]
+[Variant "standard"]
+[Result "1-0"]
+[White "e4_is_better"]
+[Black "tartan-dancer"]
+[WhiteElo "1864"]
+[BlackElo "1948"]
+e4 e5 Nf3 Nc6 Bb5 Nge7 c3 d6 d4 Bd7 d5 Nb8 Bxd7+ Nxd7 c4 h6 Be3 Ng6 g3 Be7 Nc3 c6 Qb3 c5 Qxb7 Rb8 Qxa7 Rxb2 Nb5 O-O O-O Nb6 Rfb1 Rxb1+ Rxb1 Nxc4 Bd2 Nxd2 Nxd2 Qa8 Ra1 Qxa7 Nxa7 Rb8 Nc6 Rb2 Nc4 Re2 a4 Rxe4 a5 Rxc4 a6 Bf6 a7 e4 a8=Q+ Kh7 Re1 Ne5 Nxe5 Bxe5 Qb7 f6 Qf7 Bd4 Qe6 Be5 Qf5+ g6 Qd7+ Kg8 Rb1 Rb4 Rxb4 cxb4 Qc8+ Kf7 Qb7+ Kf8 Qxb4 g5 Qxe4 Kg7 f4 gxf4 gxf4 Bc3
+1-0
+
+[Event "VBmL3OI9"]
+[Variant "standard"]
+[Result "1-0"]
+[White "connerator"]
+[Black "safaero"]
+[WhiteElo "1878"]
+[BlackElo "1831"]
+e4 c6 d3 d5 Nd2 dxe4 dxe4 Nf6 Ngf3 Bg4 Be2 e6 O-O Be7 h3 Bh5 e5 Nd5 Ne4 Nd7 Nd6+ Bxd6 exd6 Bxf3 Bxf3 Ne5 Bxd5 cxd5 Bf4 Qxd6 Qh5 g5 Qxg5 Nf3+ gxf3 Qc6 c3 Kd7 Qf6 Rhg8+ Bg3 Rg6
+1-0
+
+[Event "T0j8x5ay"]
+[Variant "standard"]
+[Result "0-1"]
+[White "tmac12390"]
+[Black "darubaru"]
+[WhiteElo "1712"]
+[BlackElo "1746"]
+d4 g6 c4 Nf6 Nc3 c5 dxc5 Qa5 Be3 Bg7 Qd2 Na6 Nd5 Qxd2+ Kxd2 Nxd5 cxd5 Bxb2 Rb1 Ba3 g3 Nxc5 Bg2 d6 Nf3 Bf5 Rb5 a6 Rb6 Ne4+ Ke1 Bc5 Rxb7 Bxe3 fxe3 Rc8 Nd4 Rc1#
+0-1
+
+[Event "5KOqe5yB"]
+[Variant "standard"]
+[Result "0-1"]
+[White "tobyhammett"]
+[Black "davidt2465"]
+[WhiteElo "1669"]
+[BlackElo "1682"]
+d4 d5 c4 e6 Nc3 Nc6 Nf3 h6 Bf4 Nf6 Nb5 Bb4+ Nd2 Ba5 e3 Ne4 Nc3 Nxc3 bxc3 Bxc3 Rc1 Ba5 cxd5 exd5 Bb5 O-O Bxc6 bxc6 Rxc6 Bb7 Rc5 Bb6 Rc1 Re8 O-O Rc8 Qg4 Ba6 Bxh6 g6 Rfd1 Re6 Nf3 Re4 Qg3 Qe8 Ne5 Be2 Rc6 Bxd1 Nxg6 Rg4 Qe5 Qxe5 Nxe5 Re4 f3 Rxe3 Bxe3 a5 Rf6 Rf8 Nd7 Re8 Bf2 Re2 Nxb6 cxb6 Rxb6 Rxa2 h4 a4 Be1 Ra1 Bc3 Rc1 Bb2 Rb1 Kf2 Bb3 Bc3 a3 Ra6 a2 Ke3 Bc4 Ra8+ Kg7 g4 Rb3 Kd2 Rb1 f4 Rf1 Ke3 Rh1 h5 Rh2 Ra7 Re2+ Kf3 Rc2 Ra3 Rxc3+ Rxc3 a1=Q Rc2 Qxd4
+0-1
+
+[Event "dbawVDSw"]
+[Variant "standard"]
+[Result "1-0"]
+[White "oldox"]
+[Black "braydonp"]
+[WhiteElo "2381"]
+[BlackElo "2174"]
+d4 d5 Nf3 Nf6 g3 c6 c4 Bf5 Nc3 e6 Nh4 dxc4 Nxf5 exf5 e3 Nbd7 Bxc4 Nb6 Bb3 Be7 O-O O-O a3 Qd7 Qf3 Rfe8 Bc2 g6 b3 Rad8 Bb2 Nbd5 Nxd5 Nxd5 Bd3 Kg7 Rfd1 h5 h4 a5 Rac1 Bd6 Bc4 Qe7 a4 Bb4 Kg2 Qe4 Bd3 Qe7 Bc4 Qe4 Bd3 Qe7 Rc2 Ba3 Bxa3 Qxa3 Bc4 Qd6 Bxd5 Qxd5 Rb1 Qxf3+ Kxf3 Rd5 b4 axb4 Rxb4 Re7 Rcb2 Rdd7 Rb6 Rc7 Rc2 Red7 Rc5 Re7 a5 Kf8 a6 bxa6 Rxa6 Re6 d5 Rd6 Raxc6 Rdxc6 dxc6 Ke7 Kf4 Kd6 Rc1 f6 Ra1 Rxc6 Ra8 Ke6 Ra7 Rc2 Kf3 Rc4 Rg7 g5 hxg5 fxg5 Rg6+ Ke5 Rxg5 Kf6 Rxh5
+1-0
+
+[Event "vmQS2Qlk"]
+[Variant "standard"]
+[Result "1-0"]
+[White "fiveknights"]
+[Black "partymagier"]
+[WhiteElo "2058"]
+[BlackElo "2021"]
+d4 Nf6 Nf3 g6 c4 Bg7 Nc3 O-O g3 d6 Bg2 c5 O-O cxd4 Nxd4 Qc7 Nd5 Nxd5 cxd5 Nd7 Be3 Ne5 Rc1 Qd7 h3 Qd8 Qb3 b6 f4 Nd7 Nc6 Qe8 Bf2 Nc5 Qc2 a5 a3 e6 b4 axb4 axb4 Nd7 dxe6 fxe6 Ne7+ Qxe7 Bxa8 d5 b5 d4 Bg2 Nc5 Rcd1 Bd7 Bxd4 Bxb5 Bxg7 Qxg7 Rb1 Qd4+ Kh2 Ba4 Qb2 Qxb2 Rxb2 Nd7 Rb4 b5 Bc6 Rf7 Bxb5 Bxb5 Rxb5 e5 Rb7 exf4 gxf4 Nf6 Rxf7 Kxf7 Rb1 Ke6 Kg2 Nd5 Kf3 Ne7 Rb7 h5 e4 Kf6 h4 Ke6 Rxe7+ Kxe7 e5 Ke6 Ke4 Ke7 Kd5 Kd7 e6+ Ke7 Ke5 Kf8 Kf6 Ke8 e7 g5 fxg5 Kd7 Kf7
+1-0
+
+[Event "nxTQlfNI"]
+[Variant "standard"]
+[Result "0-1"]
+[White "j3084"]
+[Black "onlyclassicalgames"]
+[WhiteElo "1986"]
+[BlackElo "1964"]
+d4 d5 c4 e6 Nc3 Nf6 Nf3 c5 Bg5 Be7 e3 Nc6 cxd5 exd5 Bb5 cxd4 Nxd4 Bd7 Bxf6 Bxf6 Nxd5 Bxd4 exd4 O-O O-O Qg5 Bxc6 Bxc6 Ne3 Rad8 f4 Qg6 Rf2 Rfe8 Nc4 Bd5 b3 Re4 Ne5 Qb6 Qc2 Rxd4 Kh1 Qf6 Qc7 Bc6 Nxc6 Rd1+ Rf1 Rxa1
+0-1
+
+[Event "Ay7E32gf"]
+[Variant "standard"]
+[Result "0-1"]
+[White "garfield1980"]
+[Black "self_aware_lettuce"]
+[WhiteElo "1923"]
+[BlackElo "1913"]
+d4 Nf6 Nc3 d5 Bf4 Bf5 f3 e6 g4 Bg6 h4 h6 e3 Bd6 Nge2 Nc6 Bxd6 Qxd6 Nf4 Bh7 Bd3 O-O-O Bxh7 Nxh7 Qd2 g5 hxg5 hxg5 Nd3 Nf6 O-O-O Nd7 Nb5 Qe7 Ne5 Ndxe5 dxe5 Rxh1 Rxh1 Nxe5 Nxa7+ Kb8 Qa5 Nc4 Qa4 c6 Rd1 Qc5 b3 Nxe3 Nxc6+ Qxc6 Qxc6 bxc6 Rd3 Ng2 c4 Kc7 c5 Rb8 Rd4 Nf4 Kc2 Rb5 Ra4 Rxc5+ Kd2 Kb7
+0-1
+
+[Event "1X64QA1t"]
+[Variant "standard"]
+[Result "1-0"]
+[White "chewbakatherookie"]
+[Black "saucysailorjacktar"]
+[WhiteElo "1821"]
+[BlackElo "1734"]
+d4 d5 c4 c6 Nf3 Nf6 Nc3 dxc4 a4 Bf5 e3 e6 Bxc4 Be7 O-O O-O Re1 Nbd7 e4 Bg6 Bf1 a5 e5 Nd5 Nxd5 cxd5 Bd2 Qb6 Rc1 Qxb2 Rc7 Rfd8 Bg5 Bb4 Re2 Qa3 Bxd8 Rxd8 Re3 Bc3 Rexc3 Qf8 Rxb7 f6 Rcc7 Be8 Bb5 Qf7 Qc2 Kf8 Qc6 Kg8 Rxd7 Bxd7 Rxd7 Rxd7 Qxd7 Qxd7 Bxd7 g5 Bxe6+ Kg7 Bxd5 Kg6 e6 f5 e7 g4 Ne5+ Kg5 e8=Q Kh4 g3+ Kh3 Bg2#
+1-0
+
+[Event "ynLaWOCK"]
+[Variant "standard"]
+[Result "1-0"]
+[White "saucysailorjacktar"]
+[Black "omw2fyq"]
+[WhiteElo "1714"]
+[BlackElo "1789"]
+d4 Nf6 Bf4 d5 Nf3 e6 e3 c5 c3 Nc6 Nbd2 cxd4 exd4 Bd6 Bxd6 Qxd6 Bd3 O-O O-O Re8 Bb5 a6 Bxc6 Qxc6 Ne5 Qb6 Qc2 Nd7 Ndf3 Nxe5 Nxe5 f6 Nf3 e5 dxe5 fxe5 Rad1 Qd6 c4 e4 Rxd5 Qf6 Nd2 Qg6 g3 Bh3 Re1 e3 Qxg6 exf2+ Kxf2 Rf8+ Nf3 hxg6 Re3 Rf7 Rdd3 Rc8 b3 b5 cxb5 axb5 a4 bxa4 bxa4 Rc2+ Ke1 Rb7 Rd8+ Kh7 Ng5+ Kh6 Nxh3 Rxh2 Rh8#
+1-0
+
+[Event "KM1A7lNr"]
+[Variant "standard"]
+[Result "0-1"]
+[White "swolebuddha"]
+[Black "sednomini"]
+[WhiteElo "1678"]
+[BlackElo "1640"]
+e4 c5 Nf3 d6 Bc4 Nc6 h3 e6 c3 Nf6 Qe2 Be7 d4 cxd4 cxd4 O-O O-O a6 Be3 Nxe4 Rd1 d5 Bb3 Bd7 Nbd2 Nf6 Qd3 Nb4 Qe2 Bb5 Qe1 Nd3 Qf1 Nxb2 Qe1 Nxd1 Qxd1 a5 Rb1 a4 Bxd5 Qxd5
+0-1
+
+[Event "N0A0QGbl"]
+[Variant "standard"]
+[Result "0-1"]
+[White "boomer34"]
+[Black "mahithas"]
+[WhiteElo "1593"]
+[BlackElo "1293"]
+e4 e5 Nc3 Nf6 f4 exf4 e5 Qe7 Qe2 Ng8 Nf3 Qe6 d4 Nc6 Bxf4 Qf5 Nd5 Kd8 Nh4 Qe6 Qe4 Nge7 Bc4 f5 Nxf5 Qxf5 Bd3 Qxe4+ Bxe4 Nxd5 Bxd5 Nxd4 O-O-O Ne2+ Kb1 Nxf4 Bf7 Nxg2 Rd2 Nf4 Re1 Bb4 c3 Be7 Re4 Ng6 e6 d6 b4 Rf8 c4 b6 h4 Bb7 Red4 Bf6 Rxd6+ cxd6 Rxd6+ Kc8 Rd7 Rd8 e7 Nxe7
+0-1
+
+[Event "k53Disl0"]
+[Variant "standard"]
+[Result "0-1"]
+[White "roso97"]
+[Black "sycoraxcirce"]
+[WhiteElo "2139"]
+[BlackElo "2135"]
+e4 c6 Nc3 d5 Nf3 dxe4 Nxe4 Nd7 Bc4 Ngf6 Qe2 e6 d4 Be7 O-O O-O c3 a6 Bf4 Nxe4 Qxe4 Nf6 Qe2 b5 Bb3 Bb7 Rfe1 Qb6 Ne5 c5 Rad1 Rfd8 Be3 cxd4 Bxd4 Bc5 Bxc5 Qxc5 Nxf7 Qc6 Rxd8+ Rxd8 f3 Kxf7 Bxe6+ Kf8 Qc2 Re8 Qb3 Qc5+ Kf1 Bd5 Bxd5 Rxe1+ Kxe1 Nxd5
+0-1
+
+[Event "gYvZcYHL"]
+[Variant "standard"]
+[Result "0-1"]
+[White "gaben1773"]
+[Black "rosagris"]
+[WhiteElo "2002"]
+[BlackElo "2123"]
+d4 d5 c4 e6 Nc3 c5 cxd5 exd5 Nf3 Nf6 g3 Nc6 Bg2 Be7 O-O O-O Bg5 cxd4 Nxd4 h6 Bxf6 Bxf6 Nxc6 bxc6 Rc1 Qb6 Na4 Qb5 Rc5 Qb7 e3 Rd8 b3 Be7 Rc1 Ba3 Rc3 Bb4 Rc1 Qd7 Nc5 Qd6 Qd4 Ba3 Rc2 Bf5 e4 dxe4 Qxd6 Rxd6 Nxe4 Rd4 Rc4 Rxc4 bxc4 Re8 Nc3 Bb4 Rc1 Bxc3 Rxc3 Re1+ Bf1 Bh3
+0-1
+
+[Event "Uewp580r"]
+[Variant "standard"]
+[Result "1/2-1/2"]
+[White "joshdenton1"]
+[Black "paolone"]
+[WhiteElo "1962"]
+[BlackElo "1974"]
+e4 Nf6 e5 Nd5 d4 d6 Nf3 Bg4 Be2 Nc6 O-O g6 h3 Bxf3 Bxf3 dxe5 dxe5 e6 Nc3 Nxc3 Qxd8+ Rxd8 bxc3 Nxe5 Bxb7 Rb8 Rb1 Bd6 Be3 a5 Rfe1 O-O Ba7 Rbd8 Rb5 Nc4 Re4 Be5 Rexe5 Nxe5 Rxe5 Rd1+ Kh2 Rb1 Be4 f5 Bd3 Ra8 Rxa5 Rb7 Bb6 Rxa5 Bxa5 Ra7 Bb4 Rxa2 Kg3 Kf7 Kf4 Kf6 f3 Ra1 Ke3 e5 Kf2 h5 c4 Ra8 g4 Ra4 Bd2 hxg4 hxg4 e4 fxe4 fxe4 Bxe4 Rxc4 Kf3 g5 Bd3 Rc5 Ke4 c6 Kd4 Rd5+ Ke4 Re5+
+1/2-1/2
+
+[Event "lYOFmMx3"]
+[Variant "standard"]
+[Result "1-0"]
+[White "tonuka"]
+[Black "myle"]
+[WhiteElo "1902"]
+[BlackElo "1941"]
+e4 c5 Nc3 g6 d4 cxd4 Qxd4 Nf6 Bb5 a6 e5 axb5 exf6 exf6 Qe3+ Qe7 Nd5 Qxe3+ Bxe3 Na6 Nxf6+ Ke7 Nd5+ Ke6 Nb6 Rb8 Nf3 Bc5 Bxc5 Nxc5 O-O-O Kf6 Rhe1 d5 Rxd5 Na4 Rxb5 Nxb6 Rxb6+ Kg7 Re7 Bf5 Rbxb7 Rxb7 Rxb7 Be4 Rb3 Rc8 Rc3 Rxc3 bxc3 Kf6 Kd2 g5 Ke3 Bxc2 Kd4 h5 Kd5 g4 Nd4 Ba4 c4 Kg5 c5 f5 g3 f4 Ne6+
+1-0
+
+[Event "TOW0RSQg"]
+[Variant "standard"]
+[Result "1-0"]
+[White "sgis"]
+[Black "khasi1596"]
+[WhiteElo "1872"]
+[BlackElo "1854"]
+d4 Nf6 c4 c5 e3 e6 Nc3 Be7 Nf3 O-O Be2 Nc6 O-O cxd4 Nxd4 e5 Nf5 Bb4 Nd5 d6 Nxb4 Nxb4 Nxd6 Qe7 Nxc8 Raxc8 a3 Rfd8 Qa4 Nc6 b4 a6 Rd1 Ne4 Qc2 Rxd1+ Bxd1 Rd8 Bf3 Ng5 Bxc6 bxc6 Bb2 Qd6 h3 e4 Bd4 Qg6 Kf1 Ne6 Rd1 f5 Be5 Qe8 Bd6 Qd7 c5 Qb7 Qb3 Kf7 Bg3 Qb5+ Ke1 Rd3 Rxd3 exd3 Kd2 a5 Qxd3 axb4 Qxf5+ Ke7 Bd6+
+1-0
+
+[Event "jvimePtU"]
+[Variant "standard"]
+[Result "0-1"]
+[White "t1460"]
+[Black "ticketyboohoo"]
+[WhiteElo "1781"]
+[BlackElo "1826"]
+d4 e6 e4 d5 e5 c5 c3 cxd4 cxd4 Ne7 Nc3 Nec6 a3 b6 Nf3 Ba6 Nb5 Bxb5 Bxb5 a6 Ba4 b5 Bc2 Be7 O-O Nd7 b3 O-O Qd3 f5 exf6 Nxf6 Ne5 Rc8 Ra2 Qb6 Nd7 Qxd4 Nxf8 Qxd3 Bxd3 Rxf8 Bg5 Ne5 Bxf6 Bxf6 Be2 d4 Rd1 Rc8 f4 Ng6 g3 e5 f5 Ne7 g4 Nd5 Kf2 Bh4+ Kf3 e4+ Kg2 d3 Bxd3 Ne3+ Kh3 Nxd1 Kxh4 exd3 Rd2 Rc3 Rxd1 Rxb3 Kg3 Rxa3 Kf3 a5 Ke3 b4 Rxd3 Rxd3+ Kxd3 Kf7 g5 h6 gxh6 gxh6 Kc4 Kf6 Kb3 Kxf5 Ka4 Kg4 Kxa5 b3 Ka4 b2 Ka3 b1=Q
+0-1
+
+[Event "zzlcpALS"]
+[Variant "standard"]
+[Result "1-0"]
+[White "alex-arsenault"]
+[Black "kamelstekspizza"]
+[WhiteElo "1714"]
+[BlackElo "1647"]
+c4 e5 Nc3 Nc6 g3 Nf6 Bg2 Bc5 Nf3 O-O O-O d6 Na4 Bf5 Nxc5 dxc5 d3 Qd7 Re1 Bh3 Bh1 Nd4 Nxe5 Qe6 Nf3 Qd6 Bf4 Qb6 Qd2 Rae8 Rab1 Re7 b4 Rfe8 e3 Nxf3+ Bxf3 Bg4 Bg2 c6 Bd6 Re6 Bxc5 Qc7 Bd4 b6 Rec1 Qd7 Bc3 Nh5 b5 c5 Bc6 Qc7 Bxe8 Rxe8 a4 Bh3 a5 Qb7 e4 Nf6 axb6 axb6 Re1 Nd7 Qg5 f6 Qd5+ Qxd5 exd5 Rxe1+ Rxe1 Kf7 d4 h5 f4 Bg4 Kg2 g6 d6 Be6 d5 Bf5 Kf2 Bd3 Re7+ Kf8 Rxd7 Bxc4 Rb7 Bxd5 Rxb6 Be6 Bxf6 c4 Rb7 c3 Bxc3
+1-0
+
+[Event "I2HTRt6B"]
+[Variant "standard"]
+[Result "1-0"]
+[White "lucagaglia73"]
+[Black "z0x"]
+[WhiteElo "1571"]
+[BlackElo "1332"]
+e4 e6 d4 d5 Nc3 Bb4 e5 c5 a3 Bxc3+ bxc3 Ne7 Qg4 Nf5 Bd3 Nc6 Bb5 Bd7 Nf3 Qa5 Bxc6 Qxc3+ Ke2 Qxa1 Bxd7+ Kxd7 dxc5 Rac8 Qb4 Rc7 Rd1 Rhc8 Bb2 Qa2 Nd2 a5 Qb5+ Ke7 Ra1 Rxc5 Qxb7+ R5c7 Qb6 Rc6 Qb7+ R8c7 Qb5 Rc5 Qb6 R5c6 Qb5 Rc5 Qxc5+ Rxc5 Rxa2 Rxc2 Kd3 Rc8 a4 g5 Ba3+ Ke8 g3 h5 h3 Nh6 Nb3 g4 h4 Ng8 Nxa5 f6 Nb7 Rb8 Nd6+ Kd7 Kd4 f5 Nb5 Ne7 Bxe7 Kxe7 Rc2 Ra8 Ra2 Rc8 Nd6 Rc6 a5 Ra6 Nb7 Ra7 a6 Kd7 Nc5+ Ke7 Rb2 Kd8 Rb7 Rxb7 axb7 Kc7 b8=Q+ Kxb8 Nxe6 Kb7 Kxd5 Kb6 Nc5
+1-0
+
+[Event "ojuP380E"]
+[Variant "standard"]
+[Result "1/2-1/2"]
+[White "mimano"]
+[Black "tsetsen"]
+[WhiteElo "2170"]
+[BlackElo "2136"]
+d4 Nf6 Bf4 e6 e3 b6 Nf3 Bb7 Nbd2 Be7 Bd3 c5 h3 d6 c3 Nbd7 a4 a6 Qe2 O-O O-O Re8 b4 Bf8 Bh2 Nd5 bxc5 Nxc3 Bxh7+ Kxh7 Qd3+ g6 Qxc3 bxc5 Rfb1 cxd4 exd4 Bd5 Qe3 Bh6 Bf4 Bxf4 Qxf4 Nf6 Ng5+ Kg7 Nge4 Nxe4 Nxe4 Bxe4 Qxe4 Re7 a5 Rb8 Rxb8 Qxb8 Rb1 d5 Rxb8 dxe4 Rb6 Rd7 Rxa6 Rxd4 Ra8 Ra4 Kh2 Ra3 h4 f5 g3 Ra2 Kg1 Kf6 a6 Ke5 Rg8 Rxa6 Rxg6 Ra7 Rh6 Rg7 Kf1 e3 Ke2 exf2 Kxf2 f4 gxf4+ Kxf4 Rxe6 Kg4
+1/2-1/2
+
+[Event "JYmtx0t3"]
+[Variant "standard"]
+[Result "0-1"]
+[White "aactrl"]
+[Black "alegre_river"]
+[WhiteElo "2059"]
+[BlackElo "2048"]
+b3 e5 c4 Nc6 Bb2 Bc5 Nf3 d6 e3 Nf6 a3 Qe7 d3 O-O Nc3 a6 Be2 h6 O-O e4 dxe4 Nxe4 Nxe4 Qxe4 Bd3 Qe7 Qc2 Bg4 Nd4 Ne5 Nf5 Qe6 Be4 Rad8 Rae1 Rfe8 Nd4 Qc8 Qc3 f6 Bb1 c6 b4 Ba7 Kh1 d5 c5 Bb8 e4 Qc7 f4 Nf7 Qg3 Bc8 exd5 cxd5 Nf3 Qxf4 Rxe8+ Rxe8 Qg6 Re2 g3 Qg4 Qh7+ Kf8 Bc1 Bxg3 Bxh6 gxh6 Bg6 Be6 Bxf7 Bxf7 Qxh6+ Ke8 Qxf6 Qh5 h4 Qg4 Qxf7+ Kxf7 Ne5+ Ke7 Nxg4 Bxh4 Rd1 Ke6 Rd4 Bg3 Rd3 Bf4 Kg1 Kf5 Kf1 Ra2 Nf2 Ke5 Rf3 Bg5 Rd3 d4 Ng4+ Ke4 Rg3 Kf4 Rd3 Kxg4 Rxd4+ Kf3 Rd3+ Be3 Ke1 Ra1+ Rd1 Rxd1+ Kxd1 Ke4 Kc2 Kd5 Kb3 Kc6 Kc4 Bg5 a4 Bd2 b5+ axb5+ axb5+ Kc7 Kd5 Bf4 Kc4 Bh2 Kd5 Kc8 Kc4 Kc7 Kd5 Bg1 Kc4 Kd8 Kd5 Ke7 Kc4 Ke6 Kb4 Bd4 Kc4 Be5 Kb3 Kd5 Kb4 Bg3 c6 b6 Kb3 Kc5 Ka4 Bc7 Kb3 Kxb5 Kc3 Ka4 Kb2 Kb4 Kb1 Kb3 Kc1 b5 Kd2 b4 Kc1 Ka2
+0-1
+
+[Event "zwNndwpB"]
+[Variant "standard"]
+[Result "0-1"]
+[White "nzrichie"]
+[Black "tampham"]
+[WhiteElo "1967"]
+[BlackElo "1951"]
+d4 Nf6 Bf4 d5 e3 c5 Nc3 a6 dxc5 Nc6 Nf3 e6 Na4 Bxc5 Nxc5 Qa5+ c3 Qxc5 Be2 O-O O-O Re8 Ne5 Nd7 Nxd7 Bxd7 e4 e5 exd5 exf4 dxc6 Bxc6 Re1 Rad8 Qc1 Qf5 Bf1 Rxe1 Qxe1 f3 g3 Qc2 b3 g6 c4 Rd2 Qe5 Qb2 Qe1 a5 Rb1 Qxa2 Ra1 Qc2 Rxa5 Be4 Ra8+ Kg7 Re8 f5 Qa1+ Qb2 Qa5 Rd7 Qa8 Qf6 Rg8+ Kh6 Qa7 Rd1 h4 Bd3 Qe3+ f4 Qxf3 Rxf1+ Kg2 Qc6 Qxc6 bxc6 Rd8 Rd1 Rc8 Be4+ Kh3 Bf5+
+0-1
+
+[Event "Glkoybuv"]
+[Variant "standard"]
+[Result "0-1"]
+[White "k0stasp"]
+[Black "saravsel"]
+[WhiteElo "1879"]
+[BlackElo "1880"]
+Nf3 d5 b3 Nc6 d4 Bf5 e3 e6 Bd3 Bg6 Bb2 Nf6 Bxg6 hxg6 Nbd2 Nb4 Nf1 Ne4 a3 Nc6 Ne5 Nxe5 dxe5 Qd7 Qg4 Be7 Qe2 Qc6 Qd3 O-O-O Ng3 Rh4 Nxe4 dxe4 Qe2 Rdh8 O-O-O Rxh2 Rhg1 R2h5 Rd2 f6 Qg4 Rg5 Qd1 fxe5 f4 exf3 gxf3 Rxg1 Qxg1 Qxf3 Rh2 Rxh2 Qxh2 Qxe3+ Kb1 Bf6 Qh8+ Kd7 Qb8 Qb6
+0-1
+
+[Event "gpDkr7JM"]
+[Variant "standard"]
+[Result "1/2-1/2"]
+[White "showboater"]
+[Black "dmsa_or"]
+[WhiteElo "1882"]
+[BlackElo "1860"]
+e4 c5 Nf3 Nc6 d4 cxd4 Nxd4 Nf6 Nc3 d6 Be3 e5 Nxc6 bxc6 Be2 Be7 O-O O-O Qd2 d5 exd5 cxd5 Bg5 Be6 Rfe1 Bb4 a3 Bxc3 Qxc3 Ne4 Bxd8 Nxc3 Bc7 Nxe2+ Rxe2 f6 f3 Rfc8 Ba5 Rc6 Be1 Rb8 c3 Rb3 Rd1 Kf7 h3 g5 Bf2 Rc7 Bg3 h6 Kf2 Rcb7 Rdd2 d4 cxd4 Bc4 Re4 Rxb2 Rxb2 Rxb2+ Kg1 Rb1+ Kh2 Bd5 Re3 exd4 Rd3 Rb2 Kg1 Ke6 Rxd4 a5 Ra4 Rb5 Bc7 Rb1+ Kf2 Rb2+ Kg3 f5 Rxa5 f4+ Kg4 Rxg2+ Kh5 Bxf3+ Kxh6 Rg3 Rxg5 Rxh3+ Kg7 Rg3 Rxg3 fxg3 Bxg3 Bd1 Kf8 Ba4
+1/2-1/2
+
+[Event "Z5kadT48"]
+[Variant "standard"]
+[Result "1/2-1/2"]
+[White "rebelme"]
+[Black "howtoparadox"]
+[WhiteElo "1759"]
+[BlackElo "1806"]
+d4 Nf6 Nc3 d5 Bf4 c5 e3 cxd4 exd4 a6 Nf3 Nc6 Ne5 Qb6 Nxc6 Qxc6 Be2 b5 a3 Bf5 O-O e6 Bd3 Bg6 Qe2 Be7 Rfe1 O-O Bxg6 hxg6 Bg5 Rfb8 Nb1 a5 Qd3 Qc4 Re3 Ng4 Bxe7 Nxe3 fxe3 Qxd3 cxd3 b4 axb4 axb4 Rxa8 Rxa8 Nd2 Ra2 Bxb4 Rxb2 Bc3 Rc2 Bb4 Rb2 Bc3 Rc2 Bb4 Rb2 Bc3
+1/2-1/2
+
+[Event "7ANcKVqY"]
+[Variant "standard"]
+[Result "1-0"]
+[White "bluper"]
+[Black "sincraxis"]
+[WhiteElo "1597"]
+[BlackElo "1539"]
+e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Bb5+ Bd7 Nc3 a6 e5 Bxb5 exf6 exf6 Nde2 Be7 Qd5 Bc6 Qd3 Nd7 Nf4 Nb6 O-O d5 Re1 g6 b3 O-O a4 a5 Be3 Bb4 Red1 Bxc3 Qxc3 Nc8 Bd4 Kg7 Qg3 Kh8 Qh4 g5 Qxg5 Nb6 Bxf6+ Qxf6 Qxf6+ Kg8 Nh5 Rfe8 Qg7#
+1-0
+
+[Event "tndWWY7a"]
+[Variant "standard"]
+[Result "0-1"]
+[White "jessehf"]
+[Black "silkthewanderer"]
+[WhiteElo "2196"]
+[BlackElo "2110"]
+d4 e6 Nf3 c5 g3 cxd4 Nxd4 Nf6 Bg2 d5 O-O e5 Nb3 Be6 Bg5 Nbd7 Nc3 Be7 f4 d4 Bxf6 Nxf6 Na4 Bd5 fxe5 Bxg2 exf6 Bxf1 fxe7 Qxe7 Qxf1 Rc8 c3 b5 Qf5 O-O Qxb5 Qe3+ Kf1 Qe4 Qh5 Rc6 Kg1 Rf6 Qg5 Qxe2 Nxd4 Qf2+ Kh1 Rh6 h4 Rg6 Qf4 Qxg3 Qxg3 Rxg3 Kh2 Rg4 Kh3 h5 Nc5 Re8 Rf1 Re3+ Nf3 Re2 Nd3 Reg2
+0-1
+
+[Event "lsNlKlUb"]
+[Variant "standard"]
+[Result "1/2-1/2"]
+[White "athul777"]
+[Black "kyee2"]
+[WhiteElo "2112"]
+[BlackElo "2101"]
+d4 d5 Bf4 c5 e3 Nc6 Nc3 cxd4 exd4 Bf5 Nb5
+1/2-1/2
+
+[Event "f8MkH7aF"]
+[Variant "standard"]
+[Result "0-1"]
+[White "sporefreak213"]
+[Black "schackmacke"]
+[WhiteElo "1965"]
+[BlackElo "1946"]
+e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Be3 e5 Nf3 Be7 Bd3 b5 a3 Bb7 h3 Nbd7 Nd2 d5 Nxd5 Nxd5 exd5 Nf6 f3 Nxd5 Qe2 Nxe3 Qxe3 Bh4+ Kd1 O-O Ke2 Bg5 Qf2 f5 h4 Bh6 Ke1 e4 Bf1 e3 Qe2 exd2+ Kf2 Re8 Qd3 Qb6+ Kg3 Qg6+ Kh3 Rad8 Qb3+ Bd5 Qc3 Bf4 g4 fxg4+ fxg4 Re3+ Qxe3 Bxe3 Rh2 Bf3 g5 Qf5+
+0-1
+
+[Event "OBNxRmpp"]
+[Variant "standard"]
+[Result "0-1"]
+[White "synapz"]
+[Black "shiki_sora"]
+[WhiteElo "1910"]
+[BlackElo "1933"]
+c4 Nf6 Nc3 c5 g3 d5 cxd5 Nxd5 Bg2 Nf6 Nf3 Nc6 O-O e5 d3 Be7 b3 O-O Bb2 Bg4 Rc1 Qd7 Na4 Bxf3 Bxf3 b6 Bxc6 Qxc6 Bxe5 Rad8 Qc2 Ng4 Bf4 g5 Bd2 Qh6 h4 Qg6 f3 Qd6 fxg4 Qxg3+ Kh1 Bd6 Bf4 Bxf4 e3 Qxh4+ Kg1 Bxe3+ Kg2 Qxg4+ Kh1 Rd6
+0-1
+
+[Event "e3XILkOd"]
+[Variant "standard"]
+[Result "1-0"]
+[White "loungelizard"]
+[Black "shrimppa"]
+[WhiteElo "1767"]
+[BlackElo "1789"]
+e4 c6 Nc3 d5 exd5 cxd5 d4 Bf5 Nf3 e6 Be2 Bd6 O-O Ne7 Bg5 O-O Nb5 Bb4 a3 Ba5 Nc3 Nbc6 b4 Bc7 Bd3 f6 Bh4 Bxd3 Qxd3 Nf5 Rfe1 Nxh4 Nxh4 e5 dxe5 fxe5 Qxd5+ Qxd5 Nxd5 Bd6 Nf3 Rae8 Re4 Rf5 Rae1 Ref8 c4 b6 R1e2 Rxf3 gxf3 Rxf3 R2e3 Rf5 Rd3 Nd4 Ne3 Nf3+ Kf1 Rf6 Ng4 Ng5 Nxf6+ gxf6 Rg4 Be7 h4
+1-0
+
+[Event "H4o9hmWp"]
+[Variant "standard"]
+[Result "1-0"]
+[White "mojomoe"]
+[Black "eruantien"]
+[WhiteElo "1539"]
+[BlackElo "1353"]
+e4 e5 Nf3 Nc6 Bc4 d5 Bxd5 Nf6 Bxc6+ bxc6 Nc3 Ba6 d3 Bc5 O-O O-O Nxe5 Qd4 Nf3 Qd6 e5 Qe6 exf6 Qxf6 Ne4 Qf5 Nxc5 Qxc5 Be3 Qd6 Qd2 Rfe8 Qc3 Qg6 Nh4 Qg4 Qxc6 Qxh4 Qxa6 Rab8 b3 Rb6 Bxb6 axb6 Qa4 Qxa4 bxa4 c6 Rfe1 Rxe1+ Rxe1 h6 c4 b5 axb5 cxb5 cxb5
+1-0
+
+[Event "kYag7FyN"]
+[Variant "standard"]
+[Result "1/2-1/2"]
+[White "riot64"]
+[Black "david252525"]
+[WhiteElo "2197"]
+[BlackElo "2201"]
+e4 e5 Nf3 Nc6 d4 exd4 Nxd4 Bb4+ c3 Bc5 Be3 Bb6 Nf5 Bxe3 Nxe3 Nf6 f3 O-O c4 d6 Nc3 Ne7 Qd2 b6 O-O-O Bb7 g4 Qd7 h4 Rfd8 h5 c6 g5 Ne8 h6 g6 Qd4 Qe6 f4 f5 gxf6 Qxf6 Qxf6 Nxf6 Bh3 Kf7 Rhf1 d5 cxd5 cxd5 e5 Ne4 Nxe4 dxe4 Rxd8 Rxd8 f5 Rd3 e6+ Ke8 fxg6 Nxg6 Re1 Nf4 Bf5 Rd6 Rd1 Rc6+ Kb1 Nxe6 Bxe4 Rc7 Bxb7 Rxb7 Nc4 Rd7 Nd6+ Kd8 Kc2 a6 Rd3 Kc7 Ne8+ Kc6 Rxd7 Kxd7 Nf6+ Kc6 Nxh7 Nd4+ Kc3 Nf5
+1/2-1/2
+
+[Event "Xx6YOpGU"]
+[Variant "standard"]
+[Result "1-0"]
+[White "schachattacker"]
+[Black "benkenobi04"]
+[WhiteElo "2098"]
+[BlackElo "2076"]
+c4 e5 g3 c6 Bg2 d5 cxd5 cxd5 Nf3 Nc6 d4 e4 Ne5 Nf6 O-O Qb6 e3 Bd6 Nc3 Be6 Na4 Qc7 Nxc6 Qxc6 Bd2 Bd7 Nc3 O-O Qb3 a5 a4 Bb4 Nb1 Bxd2 Nxd2 b5 Rfc1 Qb7 axb5 Rfc8 Bf1 Ne8 Rc5 Nc7 b6 a4 Qb4 Na6 Bxa6 Rxa6 Rac1 Rc6 Rxc6 Bxc6 Rxc6
+1-0
+
+[Event "yJ4IIEZB"]
+[Variant "standard"]
+[Result "0-1"]
+[White "ncandido"]
+[Black "gmat20020"]
+[WhiteElo "1980"]
+[BlackElo "2017"]
+e4 e5 Nf3 Nc6 d4 exd4 Bc4 Nf6 O-O Nxe4 Re1 d5 Bxd5 Qxd5 Nc3 Qh5 Nxe4 Be6 Neg5 O-O-O Nxe6 fxe6 Rxe6 Bd6 h3 Ne5 Rxd6 Rxd6 g4 Nxg4 Bf4 Rg6 hxg4 Qxg4+ Bg3 h5 Ne5 Qxd1+ Rxd1 Rf6 Rxd4 g5 Nd7 Ra6 Be5 Re8 a3 Rae6 Nf6 Rxe5 Nxe8 Rxe8 Rd5 Rg8 Kh2 c6 Rf5 Rg7 f4 gxf4 Rxf4 Kd7 Rf6 Kc7 Rh6 Rg5 b3 a5 Kh3 b5 Kh4 Rg2 Rxh5 Rh2+ Kg4 Rxh5 Kxh5 Kd6 Kg4 Ke5 c3 Ke4 b4 axb4 cxb4 Kd4 Kf4 Kc4 Ke4 Kb3 Kd4 Kxa3 Kc5 Kb3 Kxc6 Kxb4
+0-1
+
+[Event "as2vDjMl"]
+[Variant "standard"]
+[Result "0-1"]
+[White "pic1991"]
+[Black "el_bocadillo"]
+[WhiteElo "1948"]
+[BlackElo "1957"]
+e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Nxe4 Re1 Nc5 Bxc6 dxc6 Nxe5 Be7 d4 Ne6 c3 O-O Be3 Bd6 Nd2 c5 d5 Bxe5 dxe6 Bxe6 Bxc5 Bd6 Ne4 Bxc5 Nxc5 Bd5 Re5 Bc6 Qb3 Qd6 Rae1 b6 Na4 Qg6 g3 Qg4 R1e3 Qxa4 Qxa4 Bxa4 Re7 Rac8 R3e4 Bc6 Rc4 Rfe8 Rxe8+ Bxe8 f3 Bb5 Rd4 g6 c4 Bc6 Kf2 Kf8 c5 Ke7 cxb6 cxb6 Rc4 Bb7 Rxc8 Bxc8 Ke3 h5 h4 Ke6 g4 Ke5 gxh5 gxh5 a3 Bb7 b3 Bd5 b4 b5 f4+ Kf5 Kd4 Be6 Kc5 Kxf4 Kb6 Kg4 Kxa6 f5 Kxb5 f4 a4 f3 a5 f2 a6 f1=Q+ Ka5 Qa1+ Kb6 Qd4+ Kc7 Qxb4 a7 Qa5+ Kd6 Bf5 Ke7 Qxa7+ Kf6 Qd4+ Ke7 Qd7+ Kf6 Qe6+ Kg7 Qg6+ Kf8 Qh7 Ke8 Qg7 Kd8 Qd7#
+0-1
+
+[Event "l6np9VHj"]
+[Variant "standard"]
+[Result "1-0"]
+[White "brandrokid"]
+[Black "lc91"]
+[WhiteElo "1817"]
+[BlackElo "1869"]
+d4 d5 c4 e6 Nc3 c5 cxd5 exd5 Nf3 Nc6 Bg5 Be7 h4 cxd4 Nxd4 Bxg5 hxg5 a6 e4 dxe4 Nxc6 Qxd1+ Rxd1 bxc6 Nxe4 f6 Nd6+ Kf8 Nxc8 Rxc8 Bxa6 Re8+ Kf1 fxg5 Rh5 h6 Rh3 Nf6 a4 Kf7 Rc3 Rd8 Rxd8 Rxd8 Rxc6 Rd2 b4 Ne4 Bc4+ Kf8 a5 Rxf2+ Kg1 Rc2 a6 Nc3 a7 Ne2+ Kh2
+1-0
+
+[Event "QrKsydXy"]
+[Variant "standard"]
+[Result "0-1"]
+[White "mynamedoesntmatter"]
+[Black "mackjalek97"]
+[WhiteElo "1744"]
+[BlackElo "1782"]
+e4 c5 d4 cxd4 c3 dxc3 Nxc3 Nc6 Bc4 e6 Nf3 a6 O-O Nge7 Re1 Ng6 a3 Be7 Ne2 O-O Ng3 b5 Ba2 Bb7 b4 Rc8 Bb2 d6 Rc1 Qb6 Nd4 Rfd8 Bb1 Bf8 Nxc6 Bxc6 Qg4 d5 exd5 Bxd5 Bd4 Qb7 Rxc8 Rxc8 Qh3 Rc4 Ne2 Be4 Ba2 Rc2 Bb3 Rxe2 Rxe2 Nf4 Qg4 Nxe2+ Qxe2 Bxg2 Bc2 Bf3 Qd3 g6 Bf6 Qd5 Qe3 Bg7 Bxg7 Kxg7 Bb3 Qe4 Qc3+ Kh6 Bc2 Qg4+ Kf1 Qg2+ Ke1 Qg1+ Kd2 Qxf2+ Kc1 Bd5 Qh3+ Kg7 Qc3+ Qf6 Qxf6+ Kxf6 Kd2 Ke5 Kd3 f5 a4 Be4+ Kc3 Bxc2 Kxc2 Kd4 Kb3 e5
+0-1
+
+[Event "82RahZNL"]
+[Variant "standard"]
+[Result "1-0"]
+[White "elgnart"]
+[Black "rylor3000"]
+[WhiteElo "1636"]
+[BlackElo "1689"]
+d3 d5 Nf3 c5 b3 Nf6 c4 e6 Bg5 Be7 Nc3 Nc6 cxd5 exd5 e4 dxe4 dxe4 Nd7 Bc4 Bxg5 Bxf7+ Kf8 Be6 Nf6 Nxg5 Qxd1+ Rxd1 h6 Bxc8 Rxc8 Ne6+ Kf7 Nxc5 b6 Nd7 Nxd7 Rxd7+ Kg6 O-O Ne5 Rd6+ Kf7 Nb5 a6 Nd4 Rhd8 Nf5 Rb8 Rxd8 Rxd8 f4 Ng6 g3 Kf6 Rc1 Ne7 Nxe7 Kxe7 Rc7+ Kf6 Rc6+ Kf7 Rxb6 Ra8 Kf2 a5 a4 Rc8 Kg2 Rc3 b4 axb4 Rxb4 Ra3 Rb7+ Kg6 Ra7 Kf6 e5+ Ke6 Rxg7 Rxa4 Rg6+ Kf5 Rxh6 Ra2+ Kh3 Ra7 e6 Re7 Kg2 Kg4 h3+ Kf5 Kf3 Rxe6 g4#
+1-0
+
+[Event "YVbfVPeN"]
+[Variant "standard"]
+[Result "0-1"]
+[White "altaccforreasons"]
+[Black "joonaf"]
+[WhiteElo "1345"]
+[BlackElo "1551"]
+e4 c5 Nf3 d6 Bc4 Nf6 d3 Nc6 h3 g6 Nbd2 Bg7 O-O O-O Re1 Rb8 a4 a6 c3 b5 Bd5 Nxd5 exd5 Ne5 axb5 Nxd3 Re3 Nxc1 bxa6 Ra8 Qxc1 Rxa6 Re4 Rxa1 Qxa1 e6 dxe6 Bxe6 Ng5 Qxg5 f4 Qd5 Qe1 Rb8 c4 Qd3 Nf3 h6 Re3 Bd4 Nxd4 Qxd4 Qc3 Qxc3 bxc3 Bxc4 g4 Be6 Rf3 Bd7 f5 Kh7 f6 Bc6 Rd3 d5 h4 Re8 g5 Re6 Rd2 Re5 Rc2 hxg5 hxg5 Rxg5+ Kf2 Rf5+ Ke3 Rxf6 c4 d4+ Kd3 Re6 Rf2 f5 Rf4 Re4 Rf3 Re3+ Rxe3 dxe3 Kxe3 Kh6 Kf4 Kh5 Kg3 g5 Kh3 g4+ Kg3 Kg5 Kh2 f4 Kg1 g3 Kf1 Kg4 Ke2 Kh3 Kf1 Kh2 Ke2 g2 Kd3 g1=Q Ke2 Qe3+ Kf1 Qh3+ Kf2 Qg3+ Kf1 Bg2+ Ke2 Qf3+ Ke1 Qe3+ Kd1 Bf3+ Kc2 Be4+ Kd1 Qd3+ Ke1 Qc2 Kf1 Kg3 Ke1 Kf3 Kf1 Qf2#
+0-1
+
+[Event "mKj1fZf7"]
+[Variant "standard"]
+[Result "0-1"]
+[White "pawndercover"]
+[Black "kungfupanda20008"]
+[WhiteElo "2230"]
+[BlackElo "2333"]
+c4 e5 Nc3 Nc6 g3 g6 Bg2 Bg7 e3 d6 Nge2 Be6 Nd5 Qd7 Rb1 Nd8 d3 c6 Ndc3 Bh3 Bxh3 Qxh3 Ng1 Qd7 Nf3 f5 d4 e4 Ng1 Nf6 Nge2 Ne6 b4 Ng5 Ng1 d5 cxd5 Nxd5 Nxd5 Qxd5 Qb3 Qxb3 Rxb3 Kd7 h4 Nf7 b5 cxb5 Rxb5 Nd6 Rb1 Rhc8 Ne2 Rc2 Rb2 Rac8 Kd1 R2c6 Bd2 b6 Nf4 Nc4 Rb1 Nxd2 Kxd2 Rc2+ Ke1 Rc1+
+0-1
+
+[Event "wGrXr9ID"]
+[Variant "standard"]
+[Result "1-0"]
+[White "sundancexlc"]
+[Black "mixalaki2705"]
+[WhiteElo "2047"]
+[BlackElo "2082"]
+e4 d6 d4 Nf6 Nc3 Nbd7 Nf3 e5 g4 Nxg4 Rg1 Ngf6 Bc4 h6 Be3 c6 dxe5 dxe5 Qd3 b5 Bb3 Qa5 O-O-O Ba6 Nd2 Rh7 Qf1 Nc5 Kb1 Rd8 f3 Ne6 Bxe6 fxe6 Nb3 Rxd1+ Qxd1 Qc7 Nc5 Bc8 h4 Nh5 Rg4 Qd8 Qf1 Nf4 Bxf4 exf4 Nd3 g5 e5 Be7 Ne4 Rg7 Qh1 Kd7 Nxf4 Rf7 Nd3 Kc7 hxg5 hxg5 Qg1 Kb8 Nxg5 Bxg5 Rxg5 Qd5 Rg8 Qxf3 b3 Qf1+ Qxf1 Rxf1+ Kb2 Kc7 Rg7+ Kb6 Re7 Rf8 b4 Rh8 a3 Rh5 Kb3 a5 bxa5+ Kxa5 Rc7 Rh8 Rxc6 Bb7 Rd6 Rh3 Kb2 Re3 Rxe6 Bc8 Re7 Bf5 Nb4 Re2 Nc6+ Kb6 Nd4 Rf2 Rf7
+1-0
+
+[Event "svKABL4X"]
+[Variant "standard"]
+[Result "1-0"]
+[White "williamshookspear"]
+[Black "shakaali"]
+[WhiteElo "1940"]
+[BlackElo "1964"]
+e4 c5 a3 Nc6 b4 cxb4 axb4 Nxb4 c3 Nc6 d4 d5 Bb5 Nf6 e5 Nd7 Nf3 Nb6 O-O Bg4 h3 Bh5 e6 fxe6 g4 Bg6 Ne5 Nd7 Nxc6 bxc6 Bxc6 Rc8 Qa4 Qc7 Bb5 h5 Bf4 Qxf4 Bxd7+ Kf7 Bxc8 Be4 Qc6 g5 Qxe6+ Ke8 Bd7+ Kd8 Rxa7 Qb8 Qa6 hxg4 Ra8 Rxh3 Rxb8+ Kxd7 Qc8+ Kd6 Rb6#
+1-0
+
+[Event "IEa3ID4F"]
+[Variant "standard"]
+[Result "1-0"]
+[White "james2998"]
+[Black "cecilpurdy"]
+[WhiteElo "1896"]
+[BlackElo "1910"]
+e4 Nc6 Nf3 d5 exd5 Qxd5 Nc3 Qa5 d3 Bg4 Bd2 Nd4 Be2 Nxe2 Qxe2 Qh5 O-O-O Bxf3 gxf3 O-O-O Qe3 Kb8 Rdg1 e6 Rg5 Qh6 Qe4 Nf6 Qc4 Qh3 Rg3 Qf5 f4 h6 Nb5 Bc5 Re1 Nd7 Be3 g6 a3 Qh5 h3 Bxe3+ fxe3 Qc5 Qb3 e5 fxe5 Qxe5 Rf3 Rhf8 Nd4 Nc5 Nc6+ Ka8 Nxe5 Nxb3+ cxb3 f6 Nxg6 Rg8 Rxf6 Rxd3 Rd1 Rgd8 Rxd3
+1-0
+
+[Event "cc42HCNg"]
+[Variant "standard"]
+[Result "0-1"]
+[White "flipiflapi"]
+[Black "tranzoo"]
+[WhiteElo "1827"]
+[BlackElo "1840"]
+e4 e6 d4 d5 Nc3 Nf6 e5 Nfd7 f4 c5 Nf3 Nc6 Be3 Be7 dxc5 Nxc5 Qd2 Bd7 Be2 Rc8 O-O-O a6 f5 b5 f6 gxf6 exf6 Bd6 Bxc5 Bxc5 Qh6 Bf8 Qh4 Nb4 Ne5 Qc7 Nc4 bxc4 Rd4 Nc6 Rdd1 Rb8 Bh5 Bc8 Rhe1 Qb7 Na4 Nb4 a3 Na2+ Kd2 Rg8 Bf3 Bd7 Nc3 Qxb2 Nxa2 Qxa2 Ke2 Qxc2+ Kf1 Bc6 Rc1 Qf5 Kg1 Bd7 Rcd1 Qxf3 g3 Rb2 Qh3 Qf2+ Kh1 Qf3+ Kg1 Bc5+ Re3 Bxe3#
+0-1
+
+[Event "4IbvKSKN"]
+[Variant "standard"]
+[Result "0-1"]
+[White "pepepibote"]
+[Black "meeklydim"]
+[WhiteElo "1793"]
+[BlackElo "1722"]
+c4 Nf6 g3 e6 Bg2 d5 d4 b6 cxd5 Nxd5 e4 Bb4+ Bd2 Bxd2+ Qxd2 Ne7 Nf3 Ba6 Nc3 Nd7 d5 exd5 exd5 O-O O-O-O Rc8 Nd4 c5 Ndb5 Nf5 Nxa7 Nd4 Nxc8 Qxc8 Rhe1 b5 Kb1 Nb6 b3 Qb7 Ne2 Nxe2 Rxe2 b4 Re4 Qa8 d6 Bb7 Rde1 Bxe4+ Bxe4 Qc8 Qc2 g6 Rc1 Nd7 Qc4 Re8 Bd5 Kf8 f4 Re3 Bxf7 Qd8 Bd5 Qf6 Rd1 Qxd6 Bg2 Qxd1+ Qc1 Qd3+
+0-1
+
+[Event "UFjW8Y8P"]
+[Variant "standard"]
+[Result "0-1"]
+[White "fwcj68"]
+[Black "chessrook07"]
+[WhiteElo "1716"]
+[BlackElo "1573"]
+d4 d5 Nf3 Nf6 c4 c6 Nbd2 Bg4 Ne5 Nbd7 Nxg4 Nxg4 e4 Ngf6 e5 Ne4 Nxe4 dxe4 Qc2 f5 exf6 Nxf6 Be3 e6 a3 Qa5+ Bd2 Qb6 c5 Qc7 Bc4 e5 dxe5 Qxe5 O-O Qxc5 Be3 Qf5 Rfd1 Bc5 Bxc5 Nd7 Bd6 O-O-O Bg3 Rhe8 Be2 Ne5 Bxe5 Qxe5 Rxd8+ Rxd8 h3 h5 Rd1 Re8 Rd5 Qxd5
+0-1
+
+[Event "Kjm0DXRR"]
+[Variant "standard"]
+[Result "1-0"]
+[White "asn8745"]
+[Black "rinrinrin"]
+[WhiteElo "1473"]
+[BlackElo "1554"]
+e4 d5 exd5 Qxd5 Nc3 Qa5 d4 Nf6 Bd2 c6 Nf3 Qc7 Bc4 e6 O-O Bd6 Re1 O-O Ne5 Bxe5 dxe5 Nd5 Nxd5 cxd5 Bb3 Bd7 Qg4 h6 Bxh6 g6 Bxf8 Kxf8 Rac1 Nc6 Qg3 Kg7 Ba4 Nd4 Bxd7 Qxd7 Qf4 Nf5 g4 Nh6 Red1 Rc8 c4 Rc5 b4
+1-0
+

@@ -1,0 +1,116 @@
+2020-10-06, python3, Mac OS, timothyha
+
+Certificate errors?
+
+Run /Applications/Python\ 3.6/Install\ Certificates.command
+See https://stackoverflow.com/questions/27835619/urllib-and-ssl-certificate-verify-failed-error 
+
+ran with params:
+team4545
+season 23
+rounds = 1,4 for 4 rounds 
+
+Error likes this
+
+got game 104 / 647 GDf6e6bX
+Traceback (most recent call last):
+  File "STAT/main.py", line 177, in <module>
+    games = getGames(gameIDs)
+  File "STAT/main.py", line 155, in getGames
+    games[gameid] = json.loads(response.text)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/json/__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/json/decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/json/decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+got game 104 / 647 GDf6e6bX
+
+after adding exception handling I can see
+could not load game 105 / 647 RA5ZSxdj (previous "got game" means finished, errs on next game)
+
+could not load game 640 / 647 QuFnwKAO
+
+got game 645 / 647 7wNz95W1
+got game 646 / 647 2OTSCCgl
+This data was fetched from web.
+No analysis for https://lichess.org/tgTlZQht
+No analysis for https://lichess.org/AbZdoTwe
+No analysis for https://lichess.org/bWExJH5W
+No analysis for https://lichess.org/rF14Q6Wr
+No analysis for https://lichess.org/6kGoGAM1
+No analysis for https://lichess.org/lsNlKlUb
+No analysis for https://lichess.org/b1QdZ1Xx
+No analysis for https://lichess.org/LZ5utyGW
+No analysis for https://lichess.org/fyNWPumi
+No analysis for https://lichess.org/oLISVs89
+<li>The fastest mate was black on move 10 found in <a href= "https://lichess.org/Aap3GkSn" target="_blank">Gamelink</a>  White: <strong>altaccforreasons</strong>, Black: <strong>eruantien</strong>.
+<li>The fastest draw was found in <a href= "https://lichess.org/lsNlKlUb" target="_blank">Gamelink</a>  White: <strong>athul777</strong>, Black: <strong>kyee2</strong>.
+<li>The fastest resign was black on move 8 found in <a href= "https://lichess.org/D6aB4ngC" target="_blank">Gamelink</a>  White: <strong>pulsar512b</strong>, Black: <strong>safaero</strong>.
+<li>The biggest upset was 300 points in <a href= "https://lichess.org/N0A0QGbl" target="_blank">Gamelink</a>  White: <strong>boomer34</strong>, Black: <strong>mahithas</strong>.
+<li>The longest game ended with black on move 108 <a href= "https://lichess.org/LmsD7yRP" target="_blank">Gamelink</a>  White: <strong>connerator</strong>, Black: <strong>tsatsa64</strong>.
+<li>201 was the highest ACPL in <a href= "https://lichess.org/Ofw7U8wq" target="_blank">Gamelink</a>  White: <strong>tonuka</strong>, Black: <strong>cecilpurdy</strong>.</li><li>5 was the lowest ACPL in <a href= "https://lichess.org/TbMENaoR" target="_blank">Gamelink</a>  White: <strong>xipqag</strong>, Black: <strong>nsmiller7</strong>.</li><li>Combined maximum ACPL was 322 in <a href= "https://lichess.org/Ofw7U8wq" target="_blank">Gamelink</a>  White: <strong>tonuka</strong>, Black: <strong>cecilpurdy</strong>.</li><li>Combined minimum ACPL was 15 in <a href= "https://lichess.org/TbMENaoR" target="_blank">Gamelink</a>  White: <strong>xipqag</strong>, Black: <strong>nsmiller7</strong>.
+<li>The longest think was 32 minutes 25.0 seconds on move 16 in <a href= "https://lichess.org/pRUy6aZ6" target="_blank">Gamelink</a>  White: <strong>val1313</strong>, Black: <strong>synapz</strong>.
+<li>The most time left was 73 minutes 45.0 seconds in <a href= "https://lichess.org/7bOumEAH" target="_blank">Gamelink</a>  White: <strong>kamizik</strong>, Black: <strong>sahithyas</strong>.
+<li>The most time spent was 117 minutes 10.0 seconds in <a href= "https://lichess.org/LmsD7yRP" target="_blank">Gamelink</a>  White: <strong>connerator</strong>, Black: <strong>tsatsa64</strong>.
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/urllib/request.py", line 1318, in do_open
+    encode_chunked=req.has_header('Transfer-encoding'))
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/client.py", line 1239, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/client.py", line 1285, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/client.py", line 1234, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/client.py", line 1026, in _send_output
+    self.send(msg)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/client.py", line 964, in send
+    self.connect()
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/client.py", line 1400, in connect
+    server_hostname=server_hostname)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/ssl.py", line 407, in wrap_socket
+    _context=self, _session=session)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/ssl.py", line 814, in __init__
+    self.do_handshake()
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/ssl.py", line 1068, in do_handshake
+    self._sslobj.do_handshake()
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/ssl.py", line 689, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:833)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "STAT/main.py", line 505, in <module>
+    BOARDSandPLAYERS = getPlayersOnBoard(SEASON)
+  File "STAT/main.py", line 85, in getPlayersOnBoard
+    roster = pd.read_html(url, header = 0,attrs = {'id': 'table-team-pairings'}, encoding = 'UTF-8')[0]
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/pandas/util/_decorators.py", line 296, in wrapper
+    return func(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/pandas/io/html.py", line 1101, in read_html
+    displayed_only=displayed_only,
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/pandas/io/html.py", line 898, in _parse
+    tables = p.parse_tables()
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/pandas/io/html.py", line 217, in parse_tables
+    tables = self._parse_tables(self._build_doc(), self.match, self.attrs)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/pandas/io/html.py", line 736, in _build_doc
+    raise e
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/pandas/io/html.py", line 717, in _build_doc
+    with urlopen(self.io) as f:
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/pandas/io/common.py", line 137, in urlopen
+    return urllib.request.urlopen(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/urllib/request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/urllib/request.py", line 526, in open
+    response = self._open(req, data)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/urllib/request.py", line 544, in _open
+    '_open', req)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/urllib/request.py", line 504, in _call_chain
+    result = func(*args)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/urllib/request.py", line 1361, in https_open
+    context=self._context, check_hostname=self._check_hostname)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/urllib/request.py", line 1320, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:833)>
